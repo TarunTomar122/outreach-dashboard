@@ -1,0 +1,27 @@
+{
+  "campaign": "stocksbrew-creator-outreach-may23",
+  "date": "2026-05-23",
+  "total_sent": 20,
+  "contacts": [
+    {"name": "Aklan Research", "email": "aklanresearch@substack.com", "message_id": "<177953498468.335078.12269449195689349757@gmail.com>", "platform": "Substack + YouTube"},
+    {"name": "Sagar (Marquee Finance)", "email": "marqueefinancebysagar@protonmail.com", "message_id": "<177953498835.335078.13918521330697000549@gmail.com>", "platform": "Substack"},
+    {"name": "Stephen Ayers (Molecule to Market)", "email": "stephenayers42@gmail.com", "message_id": "<177953499256.335078.7908623677058241029@gmail.com>", "platform": "Substack"},
+    {"name": "Giacomo (The Merchant's News)", "email": "giacomo@themerchantsnews.com", "message_id": "<177953499679.335078.16526113440935234978@gmail.com>", "platform": "Substack"},
+    {"name": "Wolf of Harcourt Street", "email": "wolfofharcourtstreet@gmail.com", "message_id": "<177953500031.335078.9959266779070114067@gmail.com>", "platform": "Substack"},
+    {"name": "Easygoing Trader", "email": "easygoingtrader1@gmail.com", "message_id": "<177953500384.335078.16916022119705975579@gmail.com>", "platform": "YouTube"},
+    {"name": "Bryan Invest", "email": "bryaninvestbusiness@gmail.com", "message_id": "<177953500720.335078.12355912628851786094@gmail.com>", "platform": "YouTube"},
+    {"name": "Ron K (Stock Market Mind Games)", "email": "stockmarketmindgames@gmail.com", "message_id": "<177953504356.335095.3431065623274370480@gmail.com>", "platform": "YouTube"},
+    {"name": "DC Social Media DC", "email": "dcsocialmediadc@gmail.com", "message_id": "<177953504705.335095.296554917114504433@gmail.com>", "platform": "YouTube"},
+    {"name": "Figuring Out Money", "email": "FiguringOutMoney@gmail.com", "message_id": "<177953505121.335095.1372105881738105024@gmail.com>", "platform": "YouTube"},
+    {"name": "Nimble Prerana", "email": "nimbleprerana@gmail.com", "message_id": "<177953505523.335095.3917846683276856826@gmail.com>", "platform": "YouTube"},
+    {"name": "Delta Edge AI", "email": "deltaedgeai@gmail.com", "message_id": "<177953505947.335095.5843106401811532290@gmail.com>", "platform": "YouTube"},
+    {"name": "My Weekly Stock", "email": "myweeklystock@gmail.com", "message_id": "<177953506300.335095.11158364821337792953@gmail.com>", "platform": "Substack"},
+    {"name": "M.V. Cunha", "email": "mvcinvesting@gmail.com", "message_id": "<177953506656.335095.10961038264724391778@gmail.com>", "platform": "Substack"},
+    {"name": "A Team BWB", "email": "ateambwb@gmail.com", "message_id": "<177953508565.335100.10939142613742752802@gmail.com>", "platform": "YouTube"},
+    {"name": "David Moadel", "email": "davidmoadel@gmail.com", "message_id": "<177953509151.335100.9112769672707128384@gmail.com>", "platform": "YouTube"},
+    {"name": "Common Sense Brands", "email": "commonsensebrands@gmail.com", "message_id": "<177953509589.335100.4694229500872906430@gmail.com>", "platform": "Brand Mgmt"},
+    {"name": "Vivek Shahi Sen", "email": "vivekshahibisen@gmail.com", "message_id": "<177953509941.335100.11441645478952020577@gmail.com>", "platform": "Instagram"},
+    {"name": "Multi-Bagger Playbook", "email": "multibaggerplaybook@gmail.com", "message_id": "<177953510366.335100.15163840088101049136@gmail.com>", "platform": "Substack"},
+    {"name": "The Simple Side", "email": "thesimplesideinvesting@gmail.com", "message_id": "<177953510728.335100.15194695447274583711@gmail.com>", "platform": "Substack"}
+  ]
+}

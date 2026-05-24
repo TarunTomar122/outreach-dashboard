@@ -1,0 +1,92 @@
+{
+  "sent": [
+    {
+      "name": "Brookvale Dental",
+      "domain": "brookvaledental.com.au",
+      "email": "bookings@brookvaledental.com.au",
+      "date": "2026-05-23",
+      "message_id": "<177954287190.335413.18099390999866803219@gmail.com>",
+      "category": "dentist"
+    },
+    {
+      "name": "VCA Animal Hospitals",
+      "domain": "vca.com",
+      "email": "mediarelations@vca.com",
+      "date": "2026-05-23",
+      "message_id": "<177954315141.335413.13018465366037968309@gmail.com>",
+      "category": "veterinary"
+    },
+    {
+      "name": "Hornsby Automotive",
+      "email": "hornsbyautomotive@gmail.com",
+      "date": "2026-05-23",
+      "category": "auto repair",
+      "message_id": "<177954323752.335509.8260097360639936516@gmail.com>"
+    },
+    {
+      "name": "Summit Plumbing NSW",
+      "email": "summitplumbingservicesnsw@gmail.com",
+      "date": "2026-05-23",
+      "category": "plumbing",
+      "message_id": "<177954324348.335509.10958596154614382217@gmail.com>"
+    },
+    {
+      "name": "DBC Plumbing Service",
+      "email": "Dbcplumbingservice@gmail.com",
+      "date": "2026-05-23",
+      "category": "plumbing",
+      "message_id": "<177954324934.335509.17427221592060645852@gmail.com>"
+    }
+  ],
+  "failed": [
+    {
+      "name": "Precision Auto Repair SF",
+      "domain": "precisionautorepairsf.net",
+      "date": "2026-05-23",
+      "reason": "no email found"
+    },
+    {
+      "name": "San Francisco Automotive Solutions",
+      "domain": "mysfcarguys.com",
+      "date": "2026-05-23",
+      "reason": "no email found"
+    },
+    {
+      "name": "Sydney Dental Surgeons",
+      "domain": "sydneydentalsurgeons.com.au",
+      "date": "2026-05-23",
+      "reason": "no email found"
+    },
+    {
+      "name": "Brooklyn Plumbing",
+      "domain": "brooklynplumbing.net",
+      "date": "2026-05-23",
+      "reason": "no email found"
+    },
+    {
+      "name": "Jacksonville HVAC",
+      "domain": "jacksonvillehvac.com",
+      "date": "2026-05-23",
+      "reason": "no email found"
+    },
+    {
+      "name": "PetSmart Grooming",
+      "domain": "petsmart.com",
+      "date": "2026-05-23",
+      "reason": "no email found"
+    },
+    {
+      "name": "Meineke",
+      "domain": "meineke.com",
+      "date": "2026-05-23",
+      "reason": "no email found"
+    },
+    {
+      "name": "The Joint Chiropractic",
+      "domain": "thejoint.com",
+      "date": "2026-05-23",
+      "reason": "no email found"
+    }
+  ],
+  "date": "2026-05-23"
+}

@@ -1,0 +1,138 @@
+{
+  "sent": [
+    {
+      "name": "Amit Agarwal",
+      "email": "amit@labnol.org",
+      "message_id": "<177936326326.321365.18054799175447487927@gmail.com>",
+      "sent_at": "2026-05-21T11:34:27Z"
+    },
+    {
+      "name": "Harsh Agrawal",
+      "email": "Harsh@ShoutMeLoud.com",
+      "message_id": "<177936326917.321365.1312427989005822376@gmail.com>",
+      "sent_at": "2026-05-21T11:34:33Z"
+    },
+    {
+      "name": "Technical Guruji",
+      "email": "business@technicalguruji.com",
+      "message_id": "<177936327560.321365.3160186013016563779@gmail.com>",
+      "sent_at": "2026-05-21T11:34:39Z"
+    },
+    {
+      "name": "Trakin Tech",
+      "email": "trakin@digitallynext.com",
+      "message_id": "<177936328117.321365.5803831451251385632@gmail.com>",
+      "sent_at": "2026-05-21T11:34:44Z"
+    },
+    {
+      "name": "Gaurav Singh",
+      "email": "techwithgaurav.business@gmail.com",
+      "message_id": "<177936328667.321365.372060339936164695@gmail.com>",
+      "sent_at": "2026-05-21T11:34:50Z"
+    },
+    {
+      "name": "Ankit Choudhary",
+      "email": "business.ankittechie@gmail.com",
+      "message_id": "<177936329271.321365.3175409636977331368@gmail.com>",
+      "sent_at": "2026-05-21T11:34:56Z"
+    },
+    {
+      "name": "Tech With Tarun",
+      "email": "techwithtarun.business@gmail.com",
+      "message_id": "<177936329883.321365.10448513831585632170@gmail.com>",
+      "sent_at": "2026-05-21T11:35:03Z"
+    },
+    {
+      "name": "Gogi Tech",
+      "email": "gogitech.business@gmail.com",
+      "message_id": "<177936330551.321365.13655265452236081681@gmail.com>",
+      "sent_at": "2026-05-21T11:35:09Z"
+    },
+    {
+      "name": "Tech Bar",
+      "email": "theemailofchetan@gmail.com",
+      "message_id": "<177936331141.321365.1828313494357290207@gmail.com>",
+      "sent_at": "2026-05-21T11:35:15Z"
+    },
+    {
+      "name": "Indian Tech Gurukul",
+      "email": "indiantechgurukul@gmail.com",
+      "message_id": "<177936331734.321365.14392948777229550445@gmail.com>",
+      "sent_at": "2026-05-21T11:35:20Z"
+    },
+    {
+      "name": "Sopan",
+      "email": "officialtechsopan@gmail.com",
+      "message_id": "<177936332281.321365.307481623593284031@gmail.com>",
+      "sent_at": "2026-05-21T11:35:26Z"
+    },
+    {
+      "name": "Praval Sharma",
+      "email": "sharmajitechnical@gmail.com",
+      "message_id": "<177936332829.321365.10674729120667571644@gmail.com>",
+      "sent_at": "2026-05-21T11:35:31Z"
+    },
+    {
+      "name": "Pankaj Pandey",
+      "email": "pankajpandey.2318@gmail.com",
+      "message_id": "<177936333393.321365.14411549094065624051@gmail.com>",
+      "sent_at": "2026-05-21T11:35:37Z"
+    },
+    {
+      "name": "Deepak",
+      "email": "dktechhindi40@gmail.com",
+      "message_id": "<177936333935.321365.17921319156122484001@gmail.com>",
+      "sent_at": "2026-05-21T11:35:42Z"
+    },
+    {
+      "name": "Rahul",
+      "email": "rpmtechtips@gmail.com",
+      "message_id": "<177936334498.321365.5236447768750558187@gmail.com>",
+      "sent_at": "2026-05-21T11:35:48Z"
+    },
+    {
+      "name": "Yogendra",
+      "email": "teamyogiofficial@gmail.com",
+      "message_id": "<177936335055.321365.2714998652517913165@gmail.com>",
+      "sent_at": "2026-05-21T11:35:54Z"
+    },
+    {
+      "name": "Techy Sharma",
+      "email": "ytsponsor.rm@gmail.com",
+      "message_id": "<177936335640.321365.11944698274312308864@gmail.com>",
+      "sent_at": "2026-05-21T11:36:00Z"
+    },
+    {
+      "name": "Dipuji",
+      "email": "dipujiofficial@gmail.com",
+      "message_id": "<177936336259.321365.16779179626787914067@gmail.com>",
+      "sent_at": "2026-05-21T11:36:05Z"
+    },
+    {
+      "name": "Sekhar",
+      "email": "techsekharofficial@gmail.com",
+      "message_id": "<177936336781.321365.17192884395499333798@gmail.com>",
+      "sent_at": "2026-05-21T11:36:12Z"
+    },
+    {
+      "name": "Rohit Siwach",
+      "email": "rohitsiwach551@gmail.com",
+      "message_id": "<177936337420.321365.7432915213406407654@gmail.com>",
+      "sent_at": "2026-05-21T11:36:17Z"
+    },
+    {
+      "name": "Mubeen Khan",
+      "email": "mubeenkhan972@gmail.com",
+      "message_id": "<177936337954.321365.8601876942172216616@gmail.com>",
+      "sent_at": "2026-05-21T11:36:22Z"
+    },
+    {
+      "name": "Viral Tech India",
+      "email": "Realtechindia775@gmail.com",
+      "message_id": "<177936339380.321370.2889520053920848828@gmail.com>",
+      "sent_at": "2026-05-21T11:36:42Z"
+    }
+  ],
+  "failed": [],
+  "last_updated": "2026-05-21T11:36:42Z"
+}

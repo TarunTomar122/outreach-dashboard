@@ -1,0 +1,706 @@
+{
+    "last_updated": "2026-05-24",
+    "last_inbox_check": "2026-05-24T00:43:00Z",
+    "inbox_check_note": "Checked inbox May 24 00:43 UTC. No new sponsor replies. All emails already tracked (Railway auto-replies from May 4, Resend auto-reply from May 4, Sarah decline from May 5). No contacts hit 7-day threshold yet (May 19 sends are 5 days old, May 20 follow-ups are 4 days old). May 24 check: no changes.",
+    "channel": "@tarat.youtube",
+    "contacts": [
+        {
+            "name": "Railway",
+            "email": "partners@railway.com",
+            "status": "declined",
+            "date_contacted": "2026-05-02",
+            "notes": "Sarah replied with affiliate program offer. Follow-up sent. May 5: declined - 'not adding more sponsorships at this time'.",
+            "reply_date": "2026-05-04"
+        },
+        {
+            "name": "Vercel",
+            "email": "sponsorships@vercel.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-02",
+            "notes": "Initial outreach \u2014 indie dev AI tools video. No reply after 17 days (as of May 19). Follow-up sent 2026-05-20.",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Fireworks AI",
+            "email": "press@fireworks.ai",
+            "status": "followed_up",
+            "date_contacted": "2026-05-02",
+            "notes": "Initial outreach. No reply after 17 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "RunPod",
+            "email": "press@runpod.io",
+            "status": "followed_up",
+            "date_contacted": "2026-05-02",
+            "notes": "Initial outreach. No reply after 17 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Supabase",
+            "email": "help-events@supabase.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-04",
+            "notes": "Full-stack app build video \u2014 Supabase as backend. Pitched sponsorship. No reply after 15 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Resend",
+            "email": "support@resend.com",
+            "status": "replied",
+            "date_contacted": "2026-05-04",
+            "notes": "Auto-reply: team is reviewing, will get back soon.",
+            "reply_date": "2026-05-04"
+        },
+        {
+            "name": "Lemon Squeezy",
+            "email": "hello@lemonsqueezy.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-04",
+            "notes": "How I monetize my indie apps video \u2014 Lemon Squeezy for payments. No reply after 15 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "1Password",
+            "email": "support@1password.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-05",
+            "notes": "Security checklist for indie devs, AI phishing angle. No reply after 14 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "JetBrains",
+            "email": "sales.us@jetbrains.com",
+            "status": "replied",
+            "date_contacted": "2026-05-05",
+            "notes": "Have Content Creators Program. Asked tarat to apply via form: https://www.jetbrains.com/community/content-creators/request.html",
+            "reply_date": "2026-05-05"
+        },
+        {
+            "name": "Linode",
+            "email": "press@linode.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-05",
+            "notes": "Budget deployment for indie devs, $10/month challenge. No reply after 14 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Storyblok",
+            "email": "press@storyblok.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-05",
+            "notes": "Headless CMS tutorial, Creator Fund application. No reply after 14 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Cursor",
+            "email": "blang@cursor.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-05",
+            "notes": "Full app build with Cursor, Ambassador program. No reply after 14 days (as of May 19). Follow-up sent 2026-05-20.",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Warp",
+            "email": "press@warp.dev",
+            "status": "followed_up",
+            "date_contacted": "2026-05-05",
+            "notes": "Terminal upgrade video, open source momentum. No reply after 14 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "PostHog",
+            "email": "hey@posthog.com",
+            "status": "replied",
+            "date_contacted": "2026-05-05",
+            "notes": "Declined sponsorship but offered free merch coupon code. Take the merch.",
+            "reply_date": "2026-05-19"
+        },
+        {
+            "name": "Convex",
+            "email": "support@convex.dev",
+            "status": "followed_up",
+            "date_contacted": "2026-05-05",
+            "notes": "Real-time collaborative app build, agent backend. No reply after 14 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Sunsama",
+            "email": "support@sunsama.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-05",
+            "notes": "Developer daily workflow, work-life balance for solos. No reply after 14 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Granola",
+            "email": "press@granola.so",
+            "status": "followed_up",
+            "date_contacted": "2026-05-05",
+            "notes": "AI productivity tools for devs, thoughtful UX angle. No reply after 14 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Recall",
+            "email": "support@getrecall.ai",
+            "status": "followed_up",
+            "date_contacted": "2026-05-06",
+            "notes": "AI second brain, 'AI tools that actually stick' video. 6x frequency in AI niche per OutlierKit. No reply after 13 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Higgsfield AI",
+            "email": "press@higgsfield.ai",
+            "status": "followed_up",
+            "date_contacted": "2026-05-06",
+            "notes": "AI video gen for indie dev app promo. 6x frequency in AI niche per OutlierKit. Creator Earn program. No reply after 13 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Durable",
+            "email": "support@durable.co",
+            "status": "followed_up",
+            "date_contacted": "2026-05-06",
+            "notes": "AI website builder, 'shipping a landing page in under 5 min' video. Emerging AI sponsor. No reply after 13 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Brilliant",
+            "email": "support@brilliant.org",
+            "status": "followed_up",
+            "date_contacted": "2026-05-06",
+            "notes": "STEM learning, 'CS concepts every indie dev should understand' video. 8x frequency in tech niche. No reply after 13 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Notion",
+            "email": "team@makenotion.com",
+            "status": "declined",
+            "date_contacted": "2026-05-06",
+            "notes": "AI initially said 'strong fit', then rejected after details sent: 'not interested in this type of service at this time'. Dead end.",
+            "reply_date": "2026-05-06"
+        },
+        {
+            "name": "Zapier",
+            "email": "partnerships@zapier.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-06",
+            "notes": "Automation, 'automating the boring parts of indie dev' video. 4x frequency in AI niche. No reply after 13 days (as of May 19). Follow-up sent 2026-05-20.",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Neon",
+            "email": "press@neon.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-06",
+            "notes": "Serverless Postgres, 'best database choices for indie devs 2026' video. Open Source Program. No reply after 13 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Turso",
+            "email": "support@turso.tech",
+            "status": "followed_up",
+            "date_contacted": "2026-05-06",
+            "notes": "Edge SQLite, 'edge databases for indie devs' comparison video. Partners with ThePrimeagen. No reply after 13 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Snipd",
+            "email": "hello@snipd.com",
+            "status": "declined",
+            "date_contacted": "2026-05-06",
+            "notes": "Rejected email outreach. Asked to use in-app feedback instead. Dead end for email.",
+            "reply_date": "2026-05-06"
+        },
+        {
+            "name": "Readwise",
+            "email": "hello@readwise.io",
+            "status": "followed_up",
+            "date_contacted": "2026-05-06",
+            "notes": "Knowledge retention, 'personal knowledge system for developers' video. Emerging education sponsor. No reply after 13 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Clerk",
+            "email": "partners@clerk.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Full-stack SaaS build-along with Clerk auth. Has creator partnership program. Auth platform for React/Next.js. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20.",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Blacksmith",
+            "email": "hello@blacksmith.sh",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "CI speed comparison video for indie dev projects. 2x faster GitHub Actions. YC-backed, sponsors t3.gg. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Surfshark",
+            "email": "influencers@surfshark.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Security toolkit for indie devs video. VPN as part of essential dev security. Has YouTube ambassador program. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20.",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Squarespace",
+            "email": "press@squarespace.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Landing page build for indie devs video. Cross-niche evergreen sponsor, works with small channels. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Replit",
+            "email": "support@replit.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Shipping a full app with Replit Agent video. AI-assisted coding, vibe-coding trend. Has creator program via Passionfroot. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "DigitalOcean",
+            "email": "support@digitalocean.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Indie dev deployment guide on DigitalOcean App Platform. Affordable cloud hosting for developers. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Render",
+            "email": "support@render.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Zero-DevOps deployment comparison video. Free tier, modern cloud for builders. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Pipedream",
+            "email": "support@pipedream.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Automating indie dev workflows video. 1000+ API integrations, developer-first automation. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Upstash",
+            "email": "support@upstash.com",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Serverless Redis for indie apps video. Rate limiting and caching for Next.js apps. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Fly.io",
+            "email": "support@fly.io",
+            "status": "followed_up",
+            "date_contacted": "2026-05-07",
+            "notes": "Global deployment for indie devs video. Edge-first, developer-friendly. Community forum is active. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced]",
+            "followup_date": "2026-05-20"
+        },
+        {
+            "name": "Descript",
+            "email": "press@descript.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Descript + tarat.youtube: 14K views on our latest AI dev video [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Linear",
+            "email": "hello@linear.app",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Linear for indie dev project management: 4.2K dev audience [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Prisma",
+            "email": "support@prisma.io",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Prisma in a full-stack indie app build: 14K views, 7.19% CTR [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "TradingView",
+            "email": "partners@tradingview.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "tikrr",
+            "notes": "Initial outreach. TradingView + tikrr: daily market intelligence for active traders"
+        },
+        {
+            "name": "Wealthfront",
+            "email": "support@wealthfront.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "tikrr",
+            "notes": "Initial outreach. Wealthfront + tikrr: reaching data-driven investors daily [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Rocket Money",
+            "email": "affiliates@rocketmoney.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "tikrr",
+            "notes": "Initial outreach. Rocket Money + tikrr: reaching investors who track every dollar"
+        },
+        {
+            "name": "Figma",
+            "email": "press@figma.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Figma in indie dev workflow: 4.2K dev audience, 7.19% CTR [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Sanity.io",
+            "email": "hello@sanity.io",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Sanity CMS in a full-stack build video: 14K views on latest [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Windsurf",
+            "email": "press@codeium.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Windsurf + YouTube: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Raycast",
+            "email": "support@raycast.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Raycast + YouTube: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Replicate",
+            "email": "support@replicate.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Replicate + YouTube: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Obsidian",
+            "email": "support@obsidian.md",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Obsidian + YouTube: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Wealthsimple",
+            "email": "support@wealthsimple.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "tikrr",
+            "notes": "Initial outreach. Wealthsimple + tikrr: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Acorns",
+            "email": "partners@acorns.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "tikrr",
+            "notes": "Initial outreach. Acorns + tikrr: personalized pitch"
+        },
+        {
+            "name": "Public.com",
+            "email": "support@public.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "tikrr",
+            "notes": "Initial outreach. Public.com + tikrr: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "PlanetScale",
+            "email": "support@planetscale.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "yourtrace",
+            "notes": "Initial outreach. PlanetScale + yourtrace: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Todoist",
+            "email": "support@todoist.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Todoist + YouTube: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "Groq",
+            "email": "support@groq.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "track": "YouTube",
+            "notes": "Initial outreach. Groq + YouTube: personalized pitch [UNVERIFIED EMAIL - may have bounced]"
+        },
+        {
+            "name": "HubSpot",
+            "email": "partners@hubspot.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: YouTube collab \u2014 AI + developer productivity content",
+            "subject": "YouTube collab \u2014 AI + developer productivity content"
+        },
+        {
+            "name": "Audible",
+            "email": "creator-programs@audible.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Tech book recommendations on YouTube \u2014 sponsorship opportunity",
+            "subject": "Tech book recommendations on YouTube \u2014 sponsorship opportunity"
+        },
+        {
+            "name": "Skillshare",
+            "email": "creators@skillshare.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Tech education content partnership",
+            "subject": "Tech education content partnership"
+        },
+        {
+            "name": "NordVPN",
+            "email": "partnerships@nordvpn.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: YouTube sponsorship \u2014 developer/security content",
+            "subject": "YouTube sponsorship \u2014 developer/security content"
+        },
+        {
+            "name": "ExpressVPN",
+            "email": "affiliates@expressvpn.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Developer-focused YouTube sponsorship",
+            "subject": "Developer-focused YouTube sponsorship"
+        },
+        {
+            "name": "Honey (PayPal)",
+            "email": "partnerships@joinhoney.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Tech/developer YouTube sponsorship opportunity",
+            "subject": "Tech/developer YouTube sponsorship opportunity"
+        },
+        {
+            "name": "Coursera",
+            "email": "partnerships@coursera.org",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: AI/tech education content partnership",
+            "subject": "AI/tech education content partnership"
+        },
+        {
+            "name": "Docker",
+            "email": "marketing@docker.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: YouTube sponsorship \u2014 containerization content for devs",
+            "subject": "YouTube sponsorship \u2014 containerization content for devs"
+        },
+        {
+            "name": "Postman",
+            "email": "partnerships@postman.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: API content sponsorship on YouTube",
+            "subject": "API content sponsorship on YouTube"
+        },
+        {
+            "name": "MongoDB",
+            "email": "partnerships@mongodb.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Database content sponsorship \u2014 YouTube",
+            "subject": "Database content sponsorship \u2014 YouTube"
+        },
+        {
+            "name": "Sentry",
+            "email": "partnerships@sentry.io",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Error monitoring content for developer YouTube",
+            "subject": "Error monitoring content for developer YouTube"
+        },
+        {
+            "name": "Cloudflare",
+            "email": "partners@cloudflare.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: YouTube sponsorship \u2014 developer/infra content",
+            "subject": "YouTube sponsorship \u2014 developer/infra content"
+        },
+        {
+            "name": "Auth0 (Okta)",
+            "email": "developers@auth0.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Auth content for developer YouTube channel",
+            "subject": "Auth content for developer YouTube channel"
+        },
+        {
+            "name": "Stripe",
+            "email": "partnerships@stripe.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Payments content for indie dev YouTube channel",
+            "subject": "Payments content for indie dev YouTube channel"
+        },
+        {
+            "name": "Twilio",
+            "email": "partners@twilio.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Developer content partnership on YouTube",
+            "subject": "Developer content partnership on YouTube"
+        },
+        {
+            "name": "Bolt.new",
+            "email": "hello@bolt.new",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: AI coding tool sponsorship \u2014 YouTube [UNVERIFIED EMAIL - may have bounced]",
+            "subject": "AI coding tool sponsorship \u2014 YouTube"
+        },
+        {
+            "name": "Lovable",
+            "email": "hello@lovable.dev",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: AI app builder sponsorship \u2014 YouTube content [UNVERIFIED EMAIL - may have bounced]",
+            "subject": "AI app builder sponsorship \u2014 YouTube content"
+        },
+        {
+            "name": "Together AI",
+            "email": "partnerships@together.ai",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: AI infrastructure content \u2014 YouTube sponsorship",
+            "subject": "AI infrastructure content \u2014 YouTube sponsorship"
+        },
+        {
+            "name": "Mistral AI",
+            "email": "partnerships@mistral.ai",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: AI model content partnership \u2014 YouTube",
+            "subject": "AI model content partnership \u2014 YouTube"
+        },
+        {
+            "name": "Hugging Face",
+            "email": "partnerships@huggingface.co",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Open-source AI content \u2014 YouTube sponsorship",
+            "subject": "Open-source AI content \u2014 YouTube sponsorship"
+        },
+        {
+            "name": "ElevenLabs",
+            "email": "partnerships@elevenlabs.io",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: AI voice tech content \u2014 YouTube sponsorship",
+            "subject": "AI voice tech content \u2014 YouTube sponsorship"
+        },
+        {
+            "name": "RunwayML",
+            "email": "partnerships@runwayml.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: AI video generation content \u2014 YouTube",
+            "subject": "AI video generation content \u2014 YouTube"
+        },
+        {
+            "name": "Monday.com",
+            "email": "partnerships@monday.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Productivity tools content \u2014 YouTube sponsorship",
+            "subject": "Productivity tools content \u2014 YouTube sponsorship"
+        },
+        {
+            "name": "ClickUp",
+            "email": "partners@clickup.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Developer productivity content \u2014 YouTube",
+            "subject": "Developer productivity content \u2014 YouTube"
+        },
+        {
+            "name": "DataCamp",
+            "email": "partnerships@datacamp.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Data science education content \u2014 YouTube",
+            "subject": "Data science education content \u2014 YouTube"
+        },
+        {
+            "name": "Scrimba",
+            "email": "hello@scrimba.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Interactive coding education \u2014 YouTube sponsorship [UNVERIFIED EMAIL - may have bounced]",
+            "subject": "Interactive coding education \u2014 YouTube sponsorship"
+        },
+        {
+            "name": "Beehiiv",
+            "email": "partners@beehiiv.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Newsletter platform sponsorship \u2014 YouTube",
+            "subject": "Newsletter platform sponsorship \u2014 YouTube"
+        },
+        {
+            "name": "ConvertKit (Kit)",
+            "email": "partnerships@kit.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Creator email marketing \u2014 YouTube sponsorship",
+            "subject": "Creator email marketing \u2014 YouTube sponsorship"
+        },
+        {
+            "name": "Namecheap",
+            "email": "affiliates@namecheap.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Domain/hosting content for developer YouTube",
+            "subject": "Domain/hosting content for developer YouTube"
+        },
+        {
+            "name": "Grafana Labs",
+            "email": "partners@grafana.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Monitoring/observability content \u2014 YouTube",
+            "subject": "Monitoring/observability content \u2014 YouTube"
+        },
+        {
+            "name": "Tailwind CSS",
+            "email": "partners@tailwindcss.com",
+            "status": "sent",
+            "date_contacted": "2026-05-19",
+            "notes": "Personalized outreach. Subject: Frontend/styling content \u2014 YouTube sponsorship",
+            "subject": "Frontend/styling content \u2014 YouTube sponsorship"
+        }
+    ],
+    "status_legend": {
+        "researching": "Looking into the brand, finding contact info",
+        "email_verified": "Confirmed email is valid, ready to send",
+        "sent": "Initial outreach email sent",
+        "replied": "Got a response \u2014 check inbox",
+        "in_thread": "Active conversation/negotiation",
+        "accepted": "Deal confirmed",
+        "declined": "They passed",
+        "no_reply": "No response after 7+ days \u2014 consider follow-up"
+    }
+}
