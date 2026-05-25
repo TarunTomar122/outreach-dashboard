@@ -36,6 +36,102 @@
       "date": "2026-05-23",
       "category": "plumbing",
       "message_id": "<177954324934.335509.17427221592060645852@gmail.com>"
+    },
+    {
+      "name": "Mike's Chicago Plumbing",
+      "email": "mikesplumbing1975@gmail.com",
+      "category": "plumbing",
+      "location": "Chicago, IL",
+      "message_id": "<177967824608.347492.7886106701579847317@gmail.com>",
+      "date": "2026-05-25T03:04:10.664667"
+    },
+    {
+      "name": "Yale The Plumber",
+      "email": "yaletheplumber@gmail.com",
+      "category": "plumbing",
+      "location": "Highland Park, IL",
+      "message_id": "<177967825066.347492.10596710849052444134@gmail.com>",
+      "date": "2026-05-25T03:04:14.101567"
+    },
+    {
+      "name": "Frank Smith Plumbing",
+      "email": "fesplumbing@gmail.com",
+      "category": "plumbing",
+      "location": "Dallas, TX",
+      "message_id": "<177967825410.347492.18125519330785727355@gmail.com>",
+      "date": "2026-05-25T03:04:18.309485"
+    },
+    {
+      "name": "An Chiropractic & Spine Center",
+      "email": "tedandc@gmail.com",
+      "category": "chiropractor",
+      "location": "Dallas, TX",
+      "message_id": "<177967825830.347492.13133141547065125799@gmail.com>",
+      "date": "2026-05-25T03:04:21.907487"
+    },
+    {
+      "name": "In Stride Chiropractic",
+      "email": "instridechiropractic@gmail.com",
+      "category": "chiropractor",
+      "location": "Dallas, TX",
+      "message_id": "<177967826190.347492.10013058136397341029@gmail.com>",
+      "date": "2026-05-25T03:04:25.593864"
+    },
+    {
+      "name": "Cool Breeze HVAC",
+      "email": "coolbrrreeze.hvac@gmail.com",
+      "category": "HVAC",
+      "location": "US",
+      "message_id": "<177967826559.347492.14552511634342661726@gmail.com>",
+      "date": "2026-05-25T03:04:29.082438"
+    },
+    {
+      "name": "Palmetto Dental Center",
+      "email": "palmettodental83@gmail.com",
+      "category": "dentist",
+      "location": "Florida",
+      "message_id": "<177967826908.347492.723378994719913671@gmail.com>",
+      "date": "2026-05-25T03:04:33.242356"
+    },
+    {
+      "name": "Prestige Dental",
+      "email": "prestigedentalfl@gmail.com",
+      "category": "dentist",
+      "location": "Kissimmee, FL",
+      "message_id": "<177967827324.347492.10781152561482937273@gmail.com>",
+      "date": "2026-05-25T03:04:37.709261"
+    },
+    {
+      "name": "Izzy's Kidz Dentistry",
+      "email": "izzyskidzdentistry@gmail.com",
+      "category": "dentist",
+      "location": "Pompano Beach, FL",
+      "message_id": "<177967827770.347492.3623063302961317708@gmail.com>",
+      "date": "2026-05-25T03:04:41.955194"
+    },
+    {
+      "name": "University Pediatric Dentistry",
+      "email": "upediatricdentistry@gmail.com",
+      "category": "dentist",
+      "location": "Sugar Land, TX",
+      "message_id": "<177967828195.347492.9610747804781021554@gmail.com>",
+      "date": "2026-05-25T03:04:45.494413"
+    },
+    {
+      "name": "Dentist of Aventura",
+      "email": "dentistofaventura@gmail.com",
+      "category": "dentist",
+      "location": "Aventura, FL",
+      "message_id": "<177967828549.347492.11494847717784256196@gmail.com>",
+      "date": "2026-05-25T03:04:49.073115"
+    },
+    {
+      "name": "Athens GPR",
+      "email": "athensgpr@gmail.com",
+      "category": "dentist",
+      "location": "Athens, GA",
+      "message_id": "<177967828907.347492.6791802118823031973@gmail.com>",
+      "date": "2026-05-25T03:04:53.399593"
     }
   ],
   "failed": [
@@ -88,5 +184,97 @@
       "reason": "no email found"
     }
   ],
-  "date": "2026-05-23"
+  "date": "2026-05-23",
+  "last_updated": "2026-05-25T03:27:10.597359",
+  "total_runs": 1,
+  "last_run": "2026-05-25T03:18:35.409873",
+  "dentist_sent": [
+    {
+      "name": "Brookvale Dental",
+      "domain": "brookvaledental.com.au",
+      "email": "bookings@brookvaledental.com.au",
+      "date": "2026-05-23",
+      "message_id": "<177954287190.335413.18099390999866803219@gmail.com>",
+      "category": "dentist"
+    },
+    {
+      "name": "An Chiropractic & Spine Center",
+      "email": "tedandc@gmail.com",
+      "category": "chiropractor",
+      "location": "Dallas, TX",
+      "message_id": "<177967825830.347492.13133141547065125799@gmail.com>",
+      "date": "2026-05-25T03:04:21.907487"
+    },
+    {
+      "name": "In Stride Chiropractic",
+      "email": "instridechiropractic@gmail.com",
+      "category": "chiropractor",
+      "location": "Dallas, TX",
+      "message_id": "<177967826190.347492.10013058136397341029@gmail.com>",
+      "date": "2026-05-25T03:04:25.593864"
+    },
+    {
+      "name": "Palmetto Dental Center",
+      "email": "palmettodental83@gmail.com",
+      "category": "dentist",
+      "location": "Florida",
+      "message_id": "<177967826908.347492.723378994719913671@gmail.com>",
+      "date": "2026-05-25T03:04:33.242356"
+    },
+    {
+      "name": "Prestige Dental",
+      "email": "prestigedentalfl@gmail.com",
+      "category": "dentist",
+      "location": "Kissimmee, FL",
+      "message_id": "<177967827324.347492.10781152561482937273@gmail.com>",
+      "date": "2026-05-25T03:04:37.709261"
+    },
+    {
+      "name": "Izzy's Kidz Dentistry",
+      "email": "izzyskidzdentistry@gmail.com",
+      "category": "dentist",
+      "location": "Pompano Beach, FL",
+      "message_id": "<177967827770.347492.3623063302961317708@gmail.com>",
+      "date": "2026-05-25T03:04:41.955194"
+    },
+    {
+      "name": "University Pediatric Dentistry",
+      "email": "upediatricdentistry@gmail.com",
+      "category": "dentist",
+      "location": "Sugar Land, TX",
+      "message_id": "<177967828195.347492.9610747804781021554@gmail.com>",
+      "date": "2026-05-25T03:04:45.494413"
+    },
+    {
+      "name": "Dentist of Aventura",
+      "email": "dentistofaventura@gmail.com",
+      "category": "dentist",
+      "location": "Aventura, FL",
+      "message_id": "<177967828549.347492.11494847717784256196@gmail.com>",
+      "date": "2026-05-25T03:04:49.073115"
+    },
+    {
+      "name": "Athens GPR",
+      "email": "athensgpr@gmail.com",
+      "category": "dentist",
+      "location": "Athens, GA",
+      "message_id": "<177967828907.347492.6791802118823031973@gmail.com>",
+      "date": "2026-05-25T03:04:53.399593"
+    },
+    {
+      "name": "Dallas Implant Dentistry",
+      "email": "dallasimplant@gmail.com",
+      "city": "Dallas, TX",
+      "date": "2026-05-25",
+      "message_id": ""
+    },
+    {
+      "name": "Chiropractic of Dallas",
+      "email": "chiroofdallas@gmail.com",
+      "city": "Dallas, TX",
+      "date": "2026-05-25",
+      "message_id": ""
+    }
+  ],
+  "dentist_failed": []
 }
