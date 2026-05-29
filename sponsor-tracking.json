@@ -853,5 +853,105 @@
     "notes": "Initial outreach.",
     "subject": "YouTube sponsorship: Screen Studio for dev content creators",
     "message_id": "<177994668380.370535.10207383179717890624@gmail.com>"
+  },
+  {
+    "name": "Canva",
+    "email": "strategic-partnerships@canva.com",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "YouTube",
+    "notes": "Initial outreach. Canva for indie devs video pitch.",
+    "message_id": "<178003291680.429606.13940641438015444752@gmail.com>",
+    "subject": "YouTube sponsorship: Canva for indie developers"
+  },
+  {
+    "name": "Algolia",
+    "email": "partners@algolia.com",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "YouTube",
+    "notes": "Initial outreach. Search implementation comparison video pitch.",
+    "message_id": "<178003292896.429612.2691974795969336928@gmail.com>",
+    "subject": "YouTube sponsorship: Search API content for 4.2K dev audience"
+  },
+  {
+    "name": "Webflow",
+    "email": "press@webflow.com",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "YouTube",
+    "notes": "Initial outreach. Landing page build comparison video pitch. [press@ may not be ideal]",
+    "message_id": "<178003293235.429612.6079249531891602553@gmail.com>",
+    "subject": "YouTube sponsorship: Webflow for indie developers"
+  },
+  {
+    "name": "Plausible",
+    "email": "hello@plausible.io",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "YouTube",
+    "notes": "Initial outreach. Privacy analytics comparison video pitch.",
+    "message_id": "<178003294387.429618.5164040277553866033@gmail.com>",
+    "subject": "YouTube sponsorship: Privacy analytics for indie devs"
+  },
+  {
+    "name": "Tana",
+    "email": "hey@tana.inc",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "YouTube",
+    "notes": "Initial outreach. Knowledge management for indie devs video pitch.",
+    "message_id": "<178003294720.429618.6047460820681119664@gmail.com>",
+    "subject": "YouTube sponsorship: Knowledge management for devs"
+  },
+  {
+    "name": "Plaid",
+    "email": "press@plaid.com",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "stocksbrew",
+    "notes": "Initial outreach. Market intelligence + fintech integration angle.",
+    "message_id": "<178003295897.429624.11421022033091540670@gmail.com>",
+    "subject": "stocksbrew.online x Plaid partnership"
+  },
+  {
+    "name": "Kraken",
+    "email": "press@kraken.com",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "stocksbrew",
+    "notes": "Initial outreach. Crypto market intelligence partnership angle.",
+    "message_id": "<178003296233.429624.4666709530026684043@gmail.com>",
+    "subject": "stocksbrew.online x Kraken partnership"
+  },
+  {
+    "name": "YNAB",
+    "email": "pr@ynab.com",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "YouTube",
+    "notes": "Initial outreach. YNAB for indie devs + stocksbrew mention. pr@ynab.com explicitly lists creator partnerships.",
+    "message_id": "<178003297755.429630.12949853340204141038@gmail.com>",
+    "subject": "Partnership: YNAB + indie dev content"
+  },
+  {
+    "name": "DeepL",
+    "email": "press@deepl.com",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "yourtrace",
+    "notes": "Initial outreach. AI translation integration angle for global tech news.",
+    "message_id": "<178003298090.429630.16795146384352438151@gmail.com>",
+    "subject": "yourtrace.online x DeepL: AI translation for global tech news"
+  },
+  {
+    "name": "Synthesia",
+    "email": "press@synthesia.io",
+    "status": "sent",
+    "date_contacted": "2026-05-29",
+    "track": "YouTube",
+    "notes": "Initial outreach. AI video generation comparison video pitch.",
+    "message_id": "<178003298423.429630.1075637764263384986@gmail.com>",
+    "subject": "YouTube sponsorship: AI video tools for devs"
   }
 ]

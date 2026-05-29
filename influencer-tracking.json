@@ -942,6 +942,32 @@
       "app": "yourtrace.online",
       "message_id": "<177985664317.362216.6410477981316873290@gmail.com>",
       "angle": "Hey Jason,\n\nI'm Tarat, indie developer. Saw your A"
+    },
+    {
+      "name": "Dan Kieft",
+      "email": "business@dankieft.com",
+      "handle": "@dankieft",
+      "platform": "YouTube",
+      "followers": "250K",
+      "status": "email_sent",
+      "date_contacted": "2026-05-29",
+      "angle": "AI tools for content creation and productivity",
+      "app": "yourtrace.online",
+      "notes": "Daily outreach batch. AI enthusiast covering AI tools for work and content creation. Perfect fit for YourTrace AI news aggregator.",
+      "message_id": "<178002927197.429228.8585726891868014294@gmail.com>"
+    },
+    {
+      "name": "Damian Malliaros",
+      "email": "softwaregentofficial@gmail.com",
+      "handle": "@SoftwareGent",
+      "platform": "YouTube",
+      "followers": "13.2K",
+      "status": "email_sent",
+      "date_contacted": "2026-05-29",
+      "angle": "AI automation tools for building and marketing apps",
+      "app": "yourtrace.online",
+      "notes": "Daily outreach batch. Software Gent channel covering AI dev tools and automation. Good fit for YourTrace.",
+      "message_id": "<178002928145.429237.11851207676875166172@gmail.com>"
     }
   ],
   "status_legend": {
