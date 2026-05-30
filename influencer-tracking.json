@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27",
+  "last_updated": "2026-05-30",
   "app": "Trace (online.yourtrace.app)",
   "contacts": [
     {
@@ -915,33 +915,39 @@
       "email": "madebywebb@gmail.com",
       "handle": "@AIWebbTV",
       "platform": "YouTube (29.1K subs)",
-      "status": "email_sent",
+      "status": "followed_up",
       "date_contacted": "2026-05-27",
       "app": "yourtrace.online",
       "message_id": "<177985662906.362216.1093505862990524194@gmail.com>",
-      "angle": "Hey Webb,\n\nI'm Tarat, an indie developer. Found yo"
+      "angle": "Hey Webb,\n\nI'm Tarat, an indie developer. Found yo",
+      "followup_date": "2026-05-30",
+      "notes": " Follow-up sent 2026-05-30."
     },
     {
       "name": "Ritesh",
       "email": "lifeofriteshkv@gmail.com",
       "handle": "@lifeofriteshkv",
       "platform": "YouTube",
-      "status": "email_sent",
+      "status": "followed_up",
       "date_contacted": "2026-05-27",
       "app": "yourtrace.online",
       "message_id": "<177985663612.362216.9035202935361498670@gmail.com>",
-      "angle": "Hey Ritesh,\n\nI'm Tarat, indie dev. Found your chan"
+      "angle": "Hey Ritesh,\n\nI'm Tarat, indie dev. Found your chan",
+      "followup_date": "2026-05-30",
+      "notes": " Follow-up sent 2026-05-30."
     },
     {
       "name": "Jason",
       "email": "tutorialsjason24@gmail.com",
       "handle": "Tutorials Jason",
       "platform": "YouTube",
-      "status": "email_sent",
+      "status": "followed_up",
       "date_contacted": "2026-05-27",
       "app": "yourtrace.online",
       "message_id": "<177985664317.362216.6410477981316873290@gmail.com>",
-      "angle": "Hey Jason,\n\nI'm Tarat, indie developer. Saw your A"
+      "angle": "Hey Jason,\n\nI'm Tarat, indie developer. Saw your A",
+      "followup_date": "2026-05-30",
+      "notes": " Follow-up sent 2026-05-30."
     },
     {
       "name": "Dan Kieft",
@@ -968,6 +974,36 @@
       "app": "yourtrace.online",
       "notes": "Daily outreach batch. Software Gent channel covering AI dev tools and automation. Good fit for YourTrace.",
       "message_id": "<178002928145.429237.11851207676875166172@gmail.com>"
+    },
+    {
+      "name": "Hindi Tech Review",
+      "email": "HindiTechReview.Business@gmail.com",
+      "handle": "@hinditechreviewunboxing",
+      "platform": "YouTube",
+      "followers": "63.9K",
+      "email_source": "YouTube About page",
+      "status": "email_sent",
+      "date_contacted": "2026-05-30",
+      "angle": "Hindi daily tech news and app review channel. Covers latest tech news, gadgets, app reviews.",
+      "content_ref": "your daily tech news and app review videos on Hindi Tech Review",
+      "app": "yourtrace.online",
+      "notes": "Daily outreach batch. Hindi tech news channel with verified business email. Perfect fit for YourTrace AI tech news aggregator.",
+      "message_id": "<178011579248.443443.14504227836904699905@gmail.com>"
+    },
+    {
+      "name": "Stock Learners",
+      "email": "teamstocklearners@gmail.com",
+      "handle": "@stocklearners",
+      "platform": "YouTube",
+      "followers": "719K",
+      "email_source": "YouTube About page",
+      "status": "email_sent",
+      "date_contacted": "2026-05-30",
+      "angle": "Stock market trading and finance education channel in Hindi. Covers stock market tips, investing strategies.",
+      "content_ref": "your stock market education content on Stock Learners",
+      "app": "stocksbrew.online",
+      "notes": "Daily outreach batch. Large Indian stock market education channel. Good fit for StocksBrew market intelligence tool.",
+      "message_id": "<178011589857.443476.4311684386338046869@gmail.com>"
     }
   ],
   "status_legend": {

@@ -1,27 +1,287 @@
 {
   "campaign": "stocksbrew-creator-outreach-may23",
   "date": "2026-05-23",
-  "total_sent": 20,
+  "total_sent": 36,
   "contacts": [
-    {"name": "Aklan Research", "email": "aklanresearch@substack.com", "message_id": "<177953498468.335078.12269449195689349757@gmail.com>", "platform": "Substack + YouTube"},
-    {"name": "Sagar (Marquee Finance)", "email": "marqueefinancebysagar@protonmail.com", "message_id": "<177953498835.335078.13918521330697000549@gmail.com>", "platform": "Substack"},
-    {"name": "Stephen Ayers (Molecule to Market)", "email": "stephenayers42@gmail.com", "message_id": "<177953499256.335078.7908623677058241029@gmail.com>", "platform": "Substack"},
-    {"name": "Giacomo (The Merchant's News)", "email": "giacomo@themerchantsnews.com", "message_id": "<177953499679.335078.16526113440935234978@gmail.com>", "platform": "Substack"},
-    {"name": "Wolf of Harcourt Street", "email": "wolfofharcourtstreet@gmail.com", "message_id": "<177953500031.335078.9959266779070114067@gmail.com>", "platform": "Substack"},
-    {"name": "Easygoing Trader", "email": "easygoingtrader1@gmail.com", "message_id": "<177953500384.335078.16916022119705975579@gmail.com>", "platform": "YouTube"},
-    {"name": "Bryan Invest", "email": "bryaninvestbusiness@gmail.com", "message_id": "<177953500720.335078.12355912628851786094@gmail.com>", "platform": "YouTube"},
-    {"name": "Ron K (Stock Market Mind Games)", "email": "stockmarketmindgames@gmail.com", "message_id": "<177953504356.335095.3431065623274370480@gmail.com>", "platform": "YouTube"},
-    {"name": "DC Social Media DC", "email": "dcsocialmediadc@gmail.com", "message_id": "<177953504705.335095.296554917114504433@gmail.com>", "platform": "YouTube"},
-    {"name": "Figuring Out Money", "email": "FiguringOutMoney@gmail.com", "message_id": "<177953505121.335095.1372105881738105024@gmail.com>", "platform": "YouTube"},
-    {"name": "Nimble Prerana", "email": "nimbleprerana@gmail.com", "message_id": "<177953505523.335095.3917846683276856826@gmail.com>", "platform": "YouTube"},
-    {"name": "Delta Edge AI", "email": "deltaedgeai@gmail.com", "message_id": "<177953505947.335095.5843106401811532290@gmail.com>", "platform": "YouTube"},
-    {"name": "My Weekly Stock", "email": "myweeklystock@gmail.com", "message_id": "<177953506300.335095.11158364821337792953@gmail.com>", "platform": "Substack"},
-    {"name": "M.V. Cunha", "email": "mvcinvesting@gmail.com", "message_id": "<177953506656.335095.10961038264724391778@gmail.com>", "platform": "Substack"},
-    {"name": "A Team BWB", "email": "ateambwb@gmail.com", "message_id": "<177953508565.335100.10939142613742752802@gmail.com>", "platform": "YouTube"},
-    {"name": "David Moadel", "email": "davidmoadel@gmail.com", "message_id": "<177953509151.335100.9112769672707128384@gmail.com>", "platform": "YouTube"},
-    {"name": "Common Sense Brands", "email": "commonsensebrands@gmail.com", "message_id": "<177953509589.335100.4694229500872906430@gmail.com>", "platform": "Brand Mgmt"},
-    {"name": "Vivek Shahi Sen", "email": "vivekshahibisen@gmail.com", "message_id": "<177953509941.335100.11441645478952020577@gmail.com>", "platform": "Instagram"},
-    {"name": "Multi-Bagger Playbook", "email": "multibaggerplaybook@gmail.com", "message_id": "<177953510366.335100.15163840088101049136@gmail.com>", "platform": "Substack"},
-    {"name": "The Simple Side", "email": "thesimplesideinvesting@gmail.com", "message_id": "<177953510728.335100.15194695447274583711@gmail.com>", "platform": "Substack"}
+    {
+      "name": "Aklan Research",
+      "email": "aklanresearch@substack.com",
+      "message_id": "<177953498468.335078.12269449195689349757@gmail.com>",
+      "platform": "Substack + YouTube"
+    },
+    {
+      "name": "Sagar (Marquee Finance)",
+      "email": "marqueefinancebysagar@protonmail.com",
+      "message_id": "<177953498835.335078.13918521330697000549@gmail.com>",
+      "platform": "Substack"
+    },
+    {
+      "name": "Stephen Ayers (Molecule to Market)",
+      "email": "stephenayers42@gmail.com",
+      "message_id": "<177953499256.335078.7908623677058241029@gmail.com>",
+      "platform": "Substack"
+    },
+    {
+      "name": "Giacomo (The Merchant's News)",
+      "email": "giacomo@themerchantsnews.com",
+      "message_id": "<177953499679.335078.16526113440935234978@gmail.com>",
+      "platform": "Substack"
+    },
+    {
+      "name": "Wolf of Harcourt Street",
+      "email": "wolfofharcourtstreet@gmail.com",
+      "message_id": "<177953500031.335078.9959266779070114067@gmail.com>",
+      "platform": "Substack"
+    },
+    {
+      "name": "Easygoing Trader",
+      "email": "easygoingtrader1@gmail.com",
+      "message_id": "<177953500384.335078.16916022119705975579@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Bryan Invest",
+      "email": "bryaninvestbusiness@gmail.com",
+      "message_id": "<177953500720.335078.12355912628851786094@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Ron K (Stock Market Mind Games)",
+      "email": "stockmarketmindgames@gmail.com",
+      "message_id": "<177953504356.335095.3431065623274370480@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "DC Social Media DC",
+      "email": "dcsocialmediadc@gmail.com",
+      "message_id": "<177953504705.335095.296554917114504433@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Figuring Out Money",
+      "email": "FiguringOutMoney@gmail.com",
+      "message_id": "<177953505121.335095.1372105881738105024@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Nimble Prerana",
+      "email": "nimbleprerana@gmail.com",
+      "message_id": "<177953505523.335095.3917846683276856826@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Delta Edge AI",
+      "email": "deltaedgeai@gmail.com",
+      "message_id": "<177953505947.335095.5843106401811532290@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "My Weekly Stock",
+      "email": "myweeklystock@gmail.com",
+      "message_id": "<177953506300.335095.11158364821337792953@gmail.com>",
+      "platform": "Substack"
+    },
+    {
+      "name": "M.V. Cunha",
+      "email": "mvcinvesting@gmail.com",
+      "message_id": "<177953506656.335095.10961038264724391778@gmail.com>",
+      "platform": "Substack"
+    },
+    {
+      "name": "A Team BWB",
+      "email": "ateambwb@gmail.com",
+      "message_id": "<177953508565.335100.10939142613742752802@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "David Moadel",
+      "email": "davidmoadel@gmail.com",
+      "message_id": "<177953509151.335100.9112769672707128384@gmail.com>",
+      "platform": "YouTube"
+    },
+    {
+      "name": "Common Sense Brands",
+      "email": "commonsensebrands@gmail.com",
+      "message_id": "<177953509589.335100.4694229500872906430@gmail.com>",
+      "platform": "Brand Mgmt"
+    },
+    {
+      "name": "Vivek Shahi Sen",
+      "email": "vivekshahibisen@gmail.com",
+      "message_id": "<177953509941.335100.11441645478952020577@gmail.com>",
+      "platform": "Instagram"
+    },
+    {
+      "name": "Multi-Bagger Playbook",
+      "email": "multibaggerplaybook@gmail.com",
+      "message_id": "<177953510366.335100.15163840088101049136@gmail.com>",
+      "platform": "Substack"
+    },
+    {
+      "name": "The Simple Side",
+      "email": "thesimplesideinvesting@gmail.com",
+      "message_id": "<177953510728.335100.15194695447274583711@gmail.com>",
+      "platform": "Substack"
+    },
+    {
+      "name": "Vishal",
+      "email": "vishal@safalniveshak.com",
+      "channel": "Safal Niveshak blog",
+      "message_id": "<178006333732.434587.17528752693521083211@gmail.com>",
+      "sent_at": "2026-05-29T14:02:21Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Dev",
+      "email": "dev@stableinvestor.com",
+      "channel": "Stable Investor blog",
+      "message_id": "<178006334317.434587.16463354205071446075@gmail.com>",
+      "sent_at": "2026-05-29T14:02:26Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Harsh",
+      "email": "harshvora6@gmail.com",
+      "channel": "HV Investing Substack",
+      "message_id": "<178006334897.434587.3737745376890303885@gmail.com>",
+      "sent_at": "2026-05-29T14:02:32Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Meshal",
+      "email": "meshal.alkhowaiter@gmail.com",
+      "channel": "US stock analyst",
+      "message_id": "<178006335473.434587.1709176260453594182@gmail.com>",
+      "sent_at": "2026-05-29T14:02:38Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Larry",
+      "email": "kotlikoff@gmail.com",
+      "channel": "Economics professor/Substack",
+      "message_id": "<178006336068.434587.18277694065200822553@gmail.com>",
+      "sent_at": "2026-05-29T14:02:44Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Shazril",
+      "email": "shazriliqmal15@gmail.com",
+      "channel": "NSI Strategy Substack",
+      "message_id": "<178006336641.434587.3417910696388713481@gmail.com>",
+      "sent_at": "2026-05-29T14:02:50Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Rocks & Stocks",
+      "email": "rocksandstocksnews@gmail.com",
+      "channel": "Stock newsletter",
+      "message_id": "<178006337295.434587.17148591281579628840@gmail.com>",
+      "sent_at": "2026-05-29T14:02:56Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Invest in Assets",
+      "email": "investinassets20@gmail.com",
+      "channel": "Stock market newsletter",
+      "message_id": "<178006337887.434587.8704310547037053936@gmail.com>",
+      "sent_at": "2026-05-29T14:03:02Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "NRI Whiz",
+      "email": "nriwhizzofficial@gmail.com",
+      "channel": "Stock app builder",
+      "message_id": "<178006338444.434587.13048941344307426229@gmail.com>",
+      "sent_at": "2026-05-29T14:03:08Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Old School Value Team",
+      "email": "contact@oldschoolvalue.com",
+      "channel": "Old School Value",
+      "message_id": "<178006339065.434587.11500368246493097425@gmail.com>",
+      "sent_at": "2026-05-29T14:03:14Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Dr. Vijay",
+      "email": "drvijay@drvijaymalik.com",
+      "channel": "Dr. Vijay Malik blog",
+      "message_id": "<178006339628.434587.387300906615292647@gmail.com>",
+      "sent_at": "2026-05-29T14:03:22Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Alok",
+      "email": "alok@weekendinvesting.com",
+      "channel": "Weekend Investing",
+      "message_id": "<178006340422.434587.3229076668139099088@gmail.com>",
+      "sent_at": "2026-05-29T14:03:28Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Trade Brains Team",
+      "email": "support@tradebrains.in",
+      "channel": "Trade Brains",
+      "message_id": "<178006341013.434587.7537698524419957195@gmail.com>",
+      "sent_at": "2026-05-29T14:03:33Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Equitymaster Team",
+      "email": "info@equitymaster.com",
+      "channel": "Equitymaster",
+      "message_id": "<178006341579.434587.12641778441687870981@gmail.com>",
+      "sent_at": "2026-05-29T14:03:39Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Value Research Team",
+      "email": "info@valueresearchonline.com",
+      "channel": "Value Research",
+      "message_id": "<178006342161.434587.12389704669050353035@gmail.com>",
+      "sent_at": "2026-05-29T14:03:46Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Investment Moats Team",
+      "email": "investmentmoats@gmail.com",
+      "channel": "Investment Moats",
+      "message_id": "<178006342838.434587.18134194754734945716@gmail.com>",
+      "sent_at": "2026-05-29T14:03:52Z",
+      "status": "sent",
+      "campaign": "events-page-launch",
+      "coupon": "LAUNCHWEEK25"
+    }
   ]
 }
