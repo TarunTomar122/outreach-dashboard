@@ -1077,5 +1077,75 @@
     "subject": "YouTube sponsorship: CI/CD content for dev audience",
     "message_id": "<178011979432.444088.15277805623853644705@gmail.com>",
     "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Grammarly",
+    "email": "affiliate_mktg@grammarly.com",
+    "status": "sent",
+    "date_contacted": "2026-05-31",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: AI writing tools for dev audience",
+    "message_id": "<178020574754.459718.3017451459949099301@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Miro",
+    "email": "affiliates@miro.com",
+    "status": "sent",
+    "date_contacted": "2026-05-31",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: visual collaboration for devs",
+    "message_id": "<178020575340.459718.13745321168603241992@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Shopify",
+    "email": "affiliates@shopify.com",
+    "status": "sent",
+    "date_contacted": "2026-05-31",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: building ecommerce with Shopify",
+    "message_id": "<178020575691.459718.11949623304030306541@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Netlify",
+    "email": "community@netlify.com",
+    "status": "sent",
+    "date_contacted": "2026-05-31",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: Netlify for indie devs",
+    "message_id": "<178020576031.459718.710563553790112287@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Framer",
+    "email": "support@framer.com",
+    "status": "sent",
+    "date_contacted": "2026-05-31",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: Framer for indie devs",
+    "message_id": "<178020576362.459718.10906605603552586695@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "BetterHelp",
+    "email": "contact@betterhelp.com",
+    "status": "sent",
+    "date_contacted": "2026-05-31",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: mental health for developers",
+    "message_id": "<178020576695.459718.9550259609870830494@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "QuillBot",
+    "email": "support@quillbot.com",
+    "status": "sent",
+    "date_contacted": "2026-05-31",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: AI writing for devs",
+    "message_id": "<178020577038.459718.9831844682978141921@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
   }
 ]

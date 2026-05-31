@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30",
+  "last_updated": "2026-05-31",
   "app": "Trace (online.yourtrace.app)",
   "contacts": [
     {
@@ -1004,6 +1004,76 @@
       "app": "stocksbrew.online",
       "notes": "Daily outreach batch. Large Indian stock market education channel. Good fit for StocksBrew market intelligence tool.",
       "message_id": "<178011589857.443476.4311684386338046869@gmail.com>"
+    },
+    {
+      "name": "there (Top SaaS & AI)",
+      "email": "collab.talent.tube@gmail.com",
+      "handle": "@TopSaasAi",
+      "platform": "YouTube (130K subs)",
+      "email_source": "YouTube channel description (collab.talent.tube@gmail.com)",
+      "status": "email_sent",
+      "date_contacted": "2026-05-31",
+      "app": "yourtrace.online",
+      "angle": "AI tools and SaaS reviews",
+      "content_ref": "AI tools and SaaS reviews",
+      "notes": "Daily outreach batch 2026-05-31. Personalized email sent.",
+      "message_id": "<178020205749.459285.15216487875921066590@gmail.com>"
+    },
+    {
+      "name": "there (AI Wave)",
+      "email": "aiwave.contact@gmail.com",
+      "handle": "@AiWave",
+      "platform": "YouTube",
+      "email_source": "YouTube channel description (aiwave.contact@gmail.com)",
+      "status": "email_sent",
+      "date_contacted": "2026-05-31",
+      "app": "yourtrace.online",
+      "angle": "AI tools reviews and automation",
+      "content_ref": "AI tools reviews and automation",
+      "notes": "Daily outreach batch 2026-05-31. Personalized email sent.",
+      "message_id": "<178020206185.459285.8211709626963326118@gmail.com>"
+    },
+    {
+      "name": "Mark (Mark's Tech)",
+      "email": "markstech94@gmail.com",
+      "handle": "@markstech",
+      "platform": "YouTube",
+      "email_source": "YouTube About page (markstech94@gmail.com)",
+      "status": "email_sent",
+      "date_contacted": "2026-05-31",
+      "app": "yourtrace.online",
+      "angle": "tech reviews",
+      "content_ref": "tech reviews",
+      "notes": "Daily outreach batch 2026-05-31. Personalized email sent.",
+      "message_id": "<178020206656.459285.512777268758852069@gmail.com>"
+    },
+    {
+      "name": "there (StockPro team)",
+      "email": "stockpro.collaborations@gmail.com",
+      "handle": "@StockPro",
+      "platform": "YouTube (418K subs)",
+      "email_source": "YouTube channel description (stockpro.collaborations@gmail.com)",
+      "status": "email_sent",
+      "date_contacted": "2026-05-31",
+      "app": "stocksbrew.online",
+      "angle": "Indian stock market education",
+      "content_ref": "Indian stock market education",
+      "notes": "Daily outreach batch 2026-05-31. Personalized email sent.",
+      "message_id": "<178020207012.459285.15823149811119433494@gmail.com>"
+    },
+    {
+      "name": "there (Money on the Move)",
+      "email": "moneyonthemovellc+yt@gmail.com",
+      "handle": "@MoneyOnTheMove",
+      "platform": "YouTube / Podcast",
+      "email_source": "YouTube channel description",
+      "status": "email_sent",
+      "date_contacted": "2026-05-31",
+      "app": "stocksbrew.online",
+      "angle": "investing content",
+      "content_ref": "investing content",
+      "notes": "Daily outreach batch 2026-05-31. Personalized email sent.",
+      "message_id": "<178020207417.459285.11806620134636302103@gmail.com>"
     }
   ],
   "status_legend": {
