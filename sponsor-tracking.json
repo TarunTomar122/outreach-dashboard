@@ -645,11 +645,12 @@
   {
     "name": "Twilio",
     "email": "partners@twilio.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-05-19",
-    "notes": "Personalized outreach. Subject: Developer content partnership on YouTube | No reply after 7+ days (marked no_reply May 26)",
+    "notes": "Follow-up sent 2026-06-01. Original sent 2026-05-19. No reply after 13 days.",
     "subject": "Developer content partnership on YouTube",
-    "message_id": "<6a0c0940.c1361f75.13e05a.847a@mx.google.com>"
+    "message_id": "<6a0c0940.c1361f75.13e05a.847a@mx.google.com>",
+    "followup_date": "2026-06-01"
   },
   {
     "name": "Bolt.new",
@@ -672,20 +673,22 @@
   {
     "name": "Together AI",
     "email": "partnerships@together.ai",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-05-19",
-    "notes": "Personalized outreach. Subject: AI infrastructure content \u2014 YouTube sponsorship | No reply after 7+ days (marked no_reply May 26)",
+    "notes": "Follow-up sent 2026-06-01. Original sent 2026-05-19. No reply after 13 days.",
     "subject": "AI infrastructure content \u2014 YouTube sponsorship",
-    "message_id": "<6a0c095a.a6687ba5.3d4832.1dbb@mx.google.com>"
+    "message_id": "<6a0c095a.a6687ba5.3d4832.1dbb@mx.google.com>",
+    "followup_date": "2026-06-01"
   },
   {
     "name": "Mistral AI",
     "email": "partnerships@mistral.ai",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-05-19",
-    "notes": "Personalized outreach. Subject: AI model content partnership \u2014 YouTube | No reply after 7+ days (marked no_reply May 26)",
+    "notes": "Follow-up sent 2026-06-01. Original sent 2026-05-19. No reply after 13 days.",
     "subject": "AI model content partnership \u2014 YouTube",
-    "message_id": "<6a0c0961.48c6edbb.1b8d7a.bfe9@mx.google.com>"
+    "message_id": "<6a0c0961.48c6edbb.1b8d7a.bfe9@mx.google.com>",
+    "followup_date": "2026-06-01"
   },
   {
     "name": "Hugging Face",
@@ -699,11 +702,12 @@
   {
     "name": "ElevenLabs",
     "email": "partnerships@elevenlabs.io",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-05-19",
-    "notes": "Personalized outreach. Subject: AI voice tech content \u2014 YouTube sponsorship | No reply after 7+ days (marked no_reply May 26)",
+    "notes": "Follow-up sent 2026-06-01. Original sent 2026-05-19. No reply after 13 days.",
     "subject": "AI voice tech content \u2014 YouTube sponsorship",
-    "message_id": "<6a0c0971.32420449.26ac52.69fd@mx.google.com>"
+    "message_id": "<6a0c0971.32420449.26ac52.69fd@mx.google.com>",
+    "followup_date": "2026-06-01"
   },
   {
     "name": "RunwayML",
@@ -735,11 +739,12 @@
   {
     "name": "DataCamp",
     "email": "partnerships@datacamp.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-05-19",
-    "notes": "Personalized outreach. Subject: Data science education content \u2014 YouTube | No reply after 7+ days (marked no_reply May 26)",
+    "notes": "Follow-up sent 2026-06-01. Original sent 2026-05-19. No reply after 13 days.",
     "subject": "Data science education content \u2014 YouTube",
-    "message_id": "<6a0c0990.eb1ee00d.25c77a.9f32@mx.google.com>"
+    "message_id": "<6a0c0990.eb1ee00d.25c77a.9f32@mx.google.com>",
+    "followup_date": "2026-06-01"
   },
   {
     "name": "Scrimba",
@@ -771,9 +776,9 @@
   {
     "name": "Namecheap",
     "email": "affiliates@namecheap.com",
-    "status": "replied",
+    "status": "deal_done",
     "date_contacted": "2026-05-19",
-    "notes": "Replied May 19 asking for channel link. Then May 20 offered affiliate deal: 30% domains, 60% hosting, $50 starting bonus. Needs tarat response.",
+    "notes": "tarat replied yes to affiliate offer (30% domains, 60% hosting, 0 bonus). Sent Impact ID and was accepted (Welcome Aboard!). Deal completed.",
     "reply_date": "2026-05-20",
     "subject": "Domain/hosting content for developer YouTube"
   },
@@ -799,8 +804,8 @@
     "name": "Chloe Liu",
     "company": "InsForge",
     "email": "chloe@getinsforge.com",
-    "status": "replied",
-    "notes": "Inbound paid video sponsorship offer May 22. Replied May 27 saying yes.",
+    "status": "waiting",
+    "notes": "Inbound paid video sponsorship offer May 22. tarat replied May 23, May 26, and May 30. Waiting on Chloe/InsForge response.",
     "date": "2026-05-22",
     "message_id": ""
   },
@@ -913,7 +918,7 @@
     "status": "replied",
     "date_contacted": "2026-05-29",
     "track": "YouTube",
-    "notes": "Initial outreach. Privacy analytics comparison video pitch. Auto-reply: will respond within 1 business day.",
+    "notes": "Initial outreach. Privacy analytics comparison video pitch. Auto-reply: will respond within 1 business day. | Auto-reply May 29, no real human response yet.",
     "message_id": "<178003294387.429618.5164040277553866033@gmail.com>",
     "subject": "YouTube sponsorship: Privacy analytics for indie devs",
     "reply_date": "2026-05-29"
@@ -991,12 +996,13 @@
   {
     "name": "Shortform",
     "email": "help@shortform.com",
-    "status": "sent",
+    "status": "replied",
     "date_contacted": "2026-05-30",
     "track": "YouTube",
     "subject": "YouTube sponsorship: book summaries for dev audience",
     "message_id": "<178011976494.444088.5726903117479622292@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Maria from support replied May 31. Referred to head of partnerships Max Carter (max.carter@shortform.com). Will need to email Max with audience, monthly reach metrics, and any affiliate revenue data.",
+    "reply_date": "2026-05-31"
   },
   {
     "name": "Heptabase",
@@ -1147,5 +1153,55 @@
     "subject": "YouTube sponsorship: AI writing for devs",
     "message_id": "<178020577038.459718.9831844682978141921@gmail.com>",
     "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "N8N",
+    "email": "partners@n8n.io",
+    "status": "sent",
+    "date_contacted": "2026-06-01",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: workflow automation for indie devs",
+    "message_id": "<178029226763.472565.2260682504841438803@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Astro",
+    "email": "press@astro.build",
+    "status": "sent",
+    "date_contacted": "2026-06-01",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: Astro for indie developers",
+    "message_id": "<178029227182.472565.10708979261688677658@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Apollo",
+    "email": "partners@apollo.io",
+    "status": "sent",
+    "date_contacted": "2026-06-01",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: sales intelligence for indie devs",
+    "message_id": "<178029227519.472565.3976852776932022426@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Hunter",
+    "email": "press@hunter.io",
+    "status": "sent",
+    "date_contacted": "2026-06-01",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: email tools for indie devs",
+    "message_id": "<178029227918.472565.1730027801862593531@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Ghost CMS",
+    "email": "support@ghost.org",
+    "status": "sent",
+    "date_contacted": "2026-06-01",
+    "track": "yourtrace",
+    "subject": "yourtrace.online x Ghost CMS: publishing partnership",
+    "message_id": "<178029228324.472565.17447210671448880703@gmail.com>",
+    "notes": "Initial outreach. yourtrace partnership pitch."
   }
 ]

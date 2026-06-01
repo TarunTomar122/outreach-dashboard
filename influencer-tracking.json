@@ -955,12 +955,13 @@
       "handle": "@dankieft",
       "platform": "YouTube",
       "followers": "250K",
-      "status": "email_sent",
+      "status": "followed_up",
       "date_contacted": "2026-05-29",
       "angle": "AI tools for content creation and productivity",
       "app": "yourtrace.online",
-      "notes": "Daily outreach batch. AI enthusiast covering AI tools for work and content creation. Perfect fit for YourTrace AI news aggregator.",
-      "message_id": "<178002927197.429228.8585726891868014294@gmail.com>"
+      "notes": "Daily outreach batch. AI enthusiast covering AI tools for work and content creation. Perfect fit for YourTrace AI news aggregator. Follow-up sent 2026-06-01.",
+      "message_id": "<178002927197.429228.8585726891868014294@gmail.com>",
+      "followup_date": "2026-06-01"
     },
     {
       "name": "Damian Malliaros",
@@ -968,12 +969,13 @@
       "handle": "@SoftwareGent",
       "platform": "YouTube",
       "followers": "13.2K",
-      "status": "email_sent",
+      "status": "followed_up",
       "date_contacted": "2026-05-29",
       "angle": "AI automation tools for building and marketing apps",
       "app": "yourtrace.online",
-      "notes": "Daily outreach batch. Software Gent channel covering AI dev tools and automation. Good fit for YourTrace.",
-      "message_id": "<178002928145.429237.11851207676875166172@gmail.com>"
+      "notes": "Daily outreach batch. Software Gent channel covering AI dev tools and automation. Good fit for YourTrace. Follow-up sent 2026-06-01.",
+      "message_id": "<178002928145.429237.11851207676875166172@gmail.com>",
+      "followup_date": "2026-06-01"
     },
     {
       "name": "Hindi Tech Review",
@@ -1074,6 +1076,51 @@
       "content_ref": "investing content",
       "notes": "Daily outreach batch 2026-05-31. Personalized email sent.",
       "message_id": "<178020207417.459285.11806620134636302103@gmail.com>"
+    },
+    {
+      "name": "Thomas Frank",
+      "email": "thomas@collegeinfogeek.com",
+      "handle": "@ThomasFrank",
+      "platform": "YouTube/Notion",
+      "followers": "~1M",
+      "email_source": "thomasjfrank.com/about",
+      "status": "email_sent",
+      "date_contacted": "2026-06-01",
+      "angle": "Productivity expert and Notion template creator with massive YouTube following. Covers productivity systems, Notion, and creator tools.",
+      "content_ref": "your Notion templates and productivity content",
+      "app": "yourtrace.online",
+      "notes": "Daily outreach batch June 1. Productivity/Notion creator. Verified MX.",
+      "message_id": "<178028865803.472094.6634258423886816271@gmail.com>"
+    },
+    {
+      "name": "Nathan (Productivity Game)",
+      "email": "nathan.productivitygame@gmail.com",
+      "handle": "@productivitygame",
+      "platform": "YouTube",
+      "followers": "~500K",
+      "email_source": "productivitygame.com/privacy-policy",
+      "status": "email_sent",
+      "date_contacted": "2026-06-01",
+      "angle": "Animated book summaries and productivity insights channel. Covers books on habits, productivity, and self-improvement.",
+      "content_ref": "your animated book summaries and productivity insights",
+      "app": "yourtrace.online",
+      "notes": "Daily outreach batch June 1. Productivity/animated education channel. Verified MX.",
+      "message_id": "<178028866214.472094.1074270057014270190@gmail.com>"
+    },
+    {
+      "name": "Meet Kevin",
+      "email": "meetkevin@creatorsagency.co",
+      "handle": "@MeetKevin",
+      "platform": "YouTube",
+      "followers": "~2M",
+      "email_source": "YouTube video description",
+      "status": "email_sent",
+      "date_contacted": "2026-06-01",
+      "angle": "Real estate and investing education channel. Covers market analysis, real estate investing, and personal finance.",
+      "content_ref": "your real estate and market analysis content",
+      "app": "stocksbrew.online",
+      "notes": "Daily outreach batch June 1. Large real estate/investing channel. Via creators agency. Verified MX.",
+      "message_id": "<178028866619.472094.768704378774735483@gmail.com>"
     }
   ],
   "status_legend": {
