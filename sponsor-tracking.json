@@ -812,20 +812,20 @@
   {
     "name": "AssemblyAI",
     "email": "partnerships@assemblyai.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-27",
     "track": "YouTube",
-    "notes": "Initial outreach. AI speech API sponsorship for dev audience.",
+    "notes": "Initial outreach. AI speech API sponsorship for dev audience. No reply after 7 days (marked no_reply Jun 3).",
     "message_id": "<177986017112.362611.6933524725065800937@gmail.com>",
     "subject": "YouTube sponsorship: AI speech API content for 4.2K dev audience"
   },
   {
     "name": "Exa",
     "email": "partnerships@exa.ai",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-27",
     "track": "YouTube",
-    "notes": "Initial outreach. AI search API sponsorship for dev audience.",
+    "notes": "Initial outreach. AI search API sponsorship for dev audience. No reply after 7 days (marked no_reply Jun 3).",
     "message_id": "<177986017834.362611.12482974391290045167@gmail.com>",
     "subject": "YouTube sponsorship: AI search API content for 4.2K dev audience"
   },
@@ -1001,7 +1001,7 @@
     "track": "YouTube",
     "subject": "YouTube sponsorship: book summaries for dev audience",
     "message_id": "<178011976494.444088.5726903117479622292@gmail.com>",
-    "notes": "Maria from support replied May 31. Referred to head of partnerships Max Carter (max.carter@shortform.com). Will need to email Max with audience, monthly reach metrics, and any affiliate revenue data.",
+    "notes": "Maria from support replied May 31. Referred to head of partnerships Max Carter (max.carter@shortform.com). tarat emailed Max Jun 2. Max replied Jun 2 confirming channel then made offer: 30% affiliate profit share (6/member, 00/year), 20% discount code for audience, potential 40-50% with regular schedule. No long-term commitment. Reply from tarat pending/ongoing.",
     "reply_date": "2026-05-31"
   },
   {
@@ -1127,12 +1127,13 @@
   {
     "name": "Framer",
     "email": "support@framer.com",
-    "status": "sent",
+    "status": "replied",
     "date_contacted": "2026-05-31",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Framer for indie devs",
     "message_id": "<178020576362.459718.10906605603552586695@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. Framer support replied: Creator/Affiliate program available via marketplace templates, Framer Expert application, or affiliate link in Creator Dashboard. Apply at framer.com/creators.",
+    "reply_date": "2026-05-31"
   },
   {
     "name": "BetterHelp",
@@ -1147,12 +1148,13 @@
   {
     "name": "QuillBot",
     "email": "support@quillbot.com",
-    "status": "sent",
+    "status": "replied",
     "date_contacted": "2026-05-31",
     "track": "YouTube",
     "subject": "YouTube sponsorship: AI writing for devs",
     "message_id": "<178020577038.459718.9831844682978141921@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. Tejas from QuillBot support replied Jun 1: directed to collabs@quillbot.com for partnership/collaboration inquiries.",
+    "reply_date": "2026-06-01"
   },
   {
     "name": "N8N",
@@ -1203,5 +1205,105 @@
     "subject": "yourtrace.online x Ghost CMS: publishing partnership",
     "message_id": "<178029228324.472565.17447210671448880703@gmail.com>",
     "notes": "Initial outreach. yourtrace partnership pitch."
+  },
+  {
+    "name": "Sourcegraph",
+    "email": "hi@sourcegraph.com",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: code search + AI content for dev audience",
+    "notes": "Initial outreach.",
+    "message_id": "<178046501684.498912.5368685940360194798@gmail.com>"
+  },
+  {
+    "name": "CodeRabbit",
+    "email": "pr@coderabbit.ai",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: AI code review content for dev audience",
+    "notes": "Initial outreach.",
+    "message_id": "<178046502098.498912.5771639564185878217@gmail.com>"
+  },
+  {
+    "name": "Tabnine",
+    "email": "community@tabnine.com",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: AI code assistant content for devs",
+    "notes": "Initial outreach.",
+    "message_id": "<178046502439.498912.801326947632843610@gmail.com>"
+  },
+  {
+    "name": "WorkOS",
+    "email": "hello@workos.com",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: enterprise SaaS features for indie devs",
+    "notes": "Initial outreach.",
+    "message_id": "<178046502786.498912.16429904364040558441@gmail.com>"
+  },
+  {
+    "name": "Val Town",
+    "email": "hi@val.town",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: cloud scripting for indie devs",
+    "notes": "Initial outreach.",
+    "message_id": "<178046503127.498912.8417139666263958777@gmail.com>"
+  },
+  {
+    "name": "Coda",
+    "email": "partners@coda.io",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: Coda for indie dev productivity",
+    "notes": "Initial outreach.",
+    "message_id": "<178046503456.498912.15417752484337595055@gmail.com>"
+  },
+  {
+    "name": "Coinbase",
+    "email": "press@coinbase.com",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "stocksbrew",
+    "subject": "stocksbrew.online x Coinbase partnership",
+    "notes": "Initial outreach.",
+    "message_id": "<178046503877.498912.1160141700262014279@gmail.com>"
+  },
+  {
+    "name": "YCharts",
+    "email": "hello@ycharts.com",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "stocksbrew",
+    "subject": "stocksbrew.online x YCharts partnership",
+    "notes": "Initial outreach.",
+    "message_id": "<178046504221.498912.4196591671930101031@gmail.com>"
+  },
+  {
+    "name": "Pinecone",
+    "email": "affiliates@pinecone.io",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "yourtrace",
+    "subject": "Creator partnership: Pinecone + yourtrace.online",
+    "notes": "Initial outreach.",
+    "message_id": "<178046504563.498912.16514964176644848346@gmail.com>"
+  },
+  {
+    "name": "Matter",
+    "email": "hello@getmatter.com",
+    "status": "sent",
+    "date_contacted": "2026-06-03",
+    "track": "yourtrace",
+    "subject": "yourtrace.online x Matter partnership",
+    "notes": "Initial outreach.",
+    "message_id": "<178046504964.498912.6310724401811795185@gmail.com>"
   }
 ]
