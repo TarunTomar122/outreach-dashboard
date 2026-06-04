@@ -282,6 +282,51 @@
       "status": "sent",
       "campaign": "events-page-launch",
       "coupon": "LAUNCHWEEK25"
+    },
+    {
+      "name": "Aklan Research",
+      "email": "aklanresearch@substack.com",
+      "channel": "Substack",
+      "message_id": "<178054760692.507818.8014816587559937298@gmail.com>",
+      "date_contacted": "2026-06-04",
+      "status": "sent",
+      "campaign": "stocksbrew-jun4"
+    },
+    {
+      "name": "Stephen",
+      "email": "stephenayers42@gmail.com",
+      "channel": "Molecule to Market",
+      "message_id": "<178054761404.507818.4119576471219136446@gmail.com>",
+      "date_contacted": "2026-06-04",
+      "status": "sent",
+      "campaign": "stocksbrew-jun4"
+    },
+    {
+      "name": "Wolf of Harcourt Street",
+      "email": "wolfofharcourtstreet@gmail.com",
+      "channel": "Twitter/Newsletter",
+      "message_id": "<178054762104.507818.1035894985050991721@gmail.com>",
+      "date_contacted": "2026-06-04",
+      "status": "sent",
+      "campaign": "stocksbrew-jun4"
+    },
+    {
+      "name": "My Weekly Stock",
+      "email": "myweeklystock@gmail.com",
+      "channel": "Substack",
+      "message_id": "<178054762804.507818.7831905617479801103@gmail.com>",
+      "date_contacted": "2026-06-04",
+      "status": "sent",
+      "campaign": "stocksbrew-jun4"
+    },
+    {
+      "name": "Multi-Bagger Playbook",
+      "email": "multibaggerplaybook@gmail.com",
+      "channel": "Substack",
+      "message_id": "<178054763505.507818.13154385308104819195@gmail.com>",
+      "date_contacted": "2026-06-04",
+      "status": "sent",
+      "campaign": "stocksbrew-jun4"
     }
   ]
 }

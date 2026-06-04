@@ -984,13 +984,14 @@
       "platform": "YouTube",
       "followers": "63.9K",
       "email_source": "YouTube About page",
-      "status": "email_sent",
+      "status": "followed_up",
       "date_contacted": "2026-05-30",
       "angle": "Hindi daily tech news and app review channel. Covers latest tech news, gadgets, app reviews.",
       "content_ref": "your daily tech news and app review videos on Hindi Tech Review",
       "app": "yourtrace.online",
       "notes": "Daily outreach batch. Hindi tech news channel with verified business email. Perfect fit for YourTrace AI tech news aggregator.",
-      "message_id": "<178011579248.443443.14504227836904699905@gmail.com>"
+      "message_id": "<178011579248.443443.14504227836904699905@gmail.com>",
+      "followup_date": "2026-06-04"
     },
     {
       "name": "Stock Learners",
@@ -999,13 +1000,14 @@
       "platform": "YouTube",
       "followers": "719K",
       "email_source": "YouTube About page",
-      "status": "email_sent",
+      "status": "followed_up",
       "date_contacted": "2026-05-30",
       "angle": "Stock market trading and finance education channel in Hindi. Covers stock market tips, investing strategies.",
       "content_ref": "your stock market education content on Stock Learners",
       "app": "stocksbrew.online",
       "notes": "Daily outreach batch. Large Indian stock market education channel. Good fit for StocksBrew market intelligence tool.",
-      "message_id": "<178011589857.443476.4311684386338046869@gmail.com>"
+      "message_id": "<178011589857.443476.4311684386338046869@gmail.com>",
+      "followup_date": "2026-06-04"
     },
     {
       "name": "there (Top SaaS & AI)",
