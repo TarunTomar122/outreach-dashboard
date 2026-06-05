@@ -832,30 +832,30 @@
   {
     "name": "Trading 212",
     "email": "partnerships@trading212.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-28",
     "track": "stocksbrew",
-    "notes": "Initial outreach.",
+    "notes": "Initial outreach. | No reply after 7 days (marked no_reply Jun 4)",
     "subject": "stocksbrew.online x Trading 212 partnership",
     "message_id": "<177994665696.370535.14657828025629930786@gmail.com>"
   },
   {
     "name": "FreshBooks",
     "email": "partners@freshbooks.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-28",
     "track": "YouTube",
-    "notes": "Initial outreach.",
+    "notes": "Initial outreach. | No reply after 7 days (marked no_reply Jun 4)",
     "subject": "YouTube sponsorship: FreshBooks for indie devs",
     "message_id": "<177994666353.370535.5797234345214990387@gmail.com>"
   },
   {
     "name": "Aura",
     "email": "media@aura.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-28",
     "track": "YouTube",
-    "notes": "Initial outreach.",
+    "notes": "Initial outreach. | No reply after 7 days (marked no_reply Jun 4)",
     "subject": "YouTube sponsorship: digital security content for devs",
     "message_id": "<177994667090.370535.17231149032244158522@gmail.com>"
   },
@@ -895,20 +895,20 @@
   {
     "name": "Algolia",
     "email": "partners@algolia.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "YouTube",
-    "notes": "Initial outreach. Search implementation comparison video pitch.",
+    "notes": "Initial outreach. Search implementation comparison video pitch. | No reply after 7+ days (marked no_reply Jun 5)",
     "message_id": "<178003292896.429612.2691974795969336928@gmail.com>",
     "subject": "YouTube sponsorship: Search API content for 4.2K dev audience"
   },
   {
     "name": "Webflow",
     "email": "press@webflow.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "YouTube",
-    "notes": "Initial outreach. Landing page build comparison video pitch. [press@ may not be ideal]",
+    "notes": "Initial outreach. Landing page build comparison video pitch. [press@ may not be ideal] | No reply after 7+ days (marked no_reply Jun 5)",
     "message_id": "<178003293235.429612.6079249531891602553@gmail.com>",
     "subject": "YouTube sponsorship: Webflow for indie developers"
   },
@@ -926,60 +926,60 @@
   {
     "name": "Tana",
     "email": "hey@tana.inc",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "YouTube",
-    "notes": "Initial outreach. Knowledge management for indie devs video pitch.",
+    "notes": "Initial outreach. Knowledge management for indie devs video pitch. | No reply after 7+ days (marked no_reply Jun 5)",
     "message_id": "<178003294720.429618.6047460820681119664@gmail.com>",
     "subject": "YouTube sponsorship: Knowledge management for devs"
   },
   {
     "name": "Plaid",
     "email": "press@plaid.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "stocksbrew",
-    "notes": "Initial outreach. Market intelligence + fintech integration angle.",
+    "notes": "Initial outreach. Market intelligence + fintech integration angle. | No reply after 7+ days (marked no_reply Jun 5)",
     "message_id": "<178003295897.429624.11421022033091540670@gmail.com>",
     "subject": "stocksbrew.online x Plaid partnership"
   },
   {
     "name": "Kraken",
     "email": "press@kraken.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "stocksbrew",
-    "notes": "Initial outreach. Crypto market intelligence partnership angle.",
+    "notes": "Initial outreach. Crypto market intelligence partnership angle. | No reply after 7+ days (marked no_reply Jun 5)",
     "message_id": "<178003296233.429624.4666709530026684043@gmail.com>",
     "subject": "stocksbrew.online x Kraken partnership"
   },
   {
     "name": "YNAB",
     "email": "pr@ynab.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "YouTube",
-    "notes": "Initial outreach. YNAB for indie devs + stocksbrew mention. pr@ynab.com explicitly lists creator partnerships.",
+    "notes": "Initial outreach. YNAB for indie devs + stocksbrew mention. pr@ynab.com explicitly lists creator partnerships. | No reply after 7+ days (marked no_reply Jun 5)",
     "message_id": "<178003297755.429630.12949853340204141038@gmail.com>",
     "subject": "Partnership: YNAB + indie dev content"
   },
   {
     "name": "DeepL",
     "email": "press@deepl.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "yourtrace",
-    "notes": "Initial outreach. AI translation integration angle for global tech news.",
+    "notes": "Initial outreach. AI translation integration angle for global tech news. | No reply after 7+ days (marked no_reply Jun 5)",
     "message_id": "<178003298090.429630.16795146384352438151@gmail.com>",
     "subject": "yourtrace.online x DeepL: AI translation for global tech news"
   },
   {
     "name": "Synthesia",
     "email": "press@synthesia.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "YouTube",
-    "notes": "Initial outreach. AI video generation comparison video pitch.",
+    "notes": "Initial outreach. AI video generation comparison video pitch. | No reply after 7+ days (marked no_reply Jun 5)",
     "message_id": "<178003298423.429630.1075637764263384986@gmail.com>",
     "subject": "YouTube sponsorship: AI video tools for devs"
   },
@@ -1305,5 +1305,45 @@
     "subject": "yourtrace.online x Matter partnership",
     "notes": "Initial outreach.",
     "message_id": "<178046504964.498912.6310724401811795185@gmail.com>"
+  },
+  {
+    "company": "Firecrawl",
+    "email": "leanne@markigy.com",
+    "status": "sent",
+    "date": "Jun 04 2026",
+    "message_id": "<178058782286.519712.1741864576670116940@gmail.com>",
+    "notes": "New outreach batch Jun 4 - automated daily outreach"
+  },
+  {
+    "company": "Mintlify",
+    "email": "han@mintlify.com",
+    "status": "sent",
+    "date": "Jun 04 2026",
+    "message_id": "<178058782618.519712.9011460975514728304@gmail.com>",
+    "notes": "New outreach batch Jun 4 - automated daily outreach"
+  },
+  {
+    "company": "CopilotKit",
+    "email": "hello@copilotkit.ai",
+    "status": "sent",
+    "date": "Jun 04 2026",
+    "message_id": "<178058783038.519712.8647226566947757299@gmail.com>",
+    "notes": "New outreach batch Jun 4 - automated daily outreach"
+  },
+  {
+    "company": "Deno",
+    "email": "hello@deno.com",
+    "status": "sent",
+    "date": "Jun 04 2026",
+    "message_id": "<178058783455.519712.14429123299488250016@gmail.com>",
+    "notes": "New outreach batch Jun 4 - automated daily outreach"
+  },
+  {
+    "company": "Tavily",
+    "email": "hello@tavily.com",
+    "status": "sent",
+    "date": "Jun 04 2026",
+    "message_id": "<178058783790.519712.2179127864443865602@gmail.com>",
+    "notes": "New outreach batch Jun 4 - automated daily outreach"
   }
 ]
