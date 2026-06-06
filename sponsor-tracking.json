@@ -986,12 +986,12 @@
   {
     "name": "Passbolt",
     "email": "contact@passbolt.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "YouTube",
     "subject": "YouTube sponsorship: password management content for dev audience",
     "message_id": "<178011976155.444088.11621067254308382009@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "Shortform",
@@ -1007,82 +1007,82 @@
   {
     "name": "Heptabase",
     "email": "team@heptabase.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "YouTube",
     "subject": "YouTube sponsorship: visual note-taking for developers",
     "message_id": "<178011976909.444088.1179841211610079149@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "Benzinga",
     "email": "contributors@benzinga.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "stocksbrew",
     "subject": "stocksbrew.online x Benzinga: content partnership",
     "message_id": "<178011977239.444088.5509983265163997107@gmail.com>",
-    "notes": "Initial outreach. stocksbrew partnership pitch."
+    "notes": "Initial outreach. stocksbrew partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "Svix",
     "email": "sales@svix.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "YouTube",
     "subject": "YouTube sponsorship: webhook infrastructure for dev audience",
     "message_id": "<178011977578.444088.13978857179174717300@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "Pulumi",
     "email": "team@pulumi.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "YouTube",
     "subject": "YouTube sponsorship: infrastructure as code for indie devs",
     "message_id": "<178011978014.444088.16186055707338392381@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "Feedly",
     "email": "care@feedly.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "yourtrace",
     "subject": "yourtrace.online x Feedly: AI news integration partnership",
     "message_id": "<178011978360.444088.11898436327367503078@gmail.com>",
-    "notes": "Initial outreach. yourtrace partnership pitch."
+    "notes": "Initial outreach. yourtrace partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "Daily.dev",
     "email": "press@daily.dev",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "yourtrace",
     "subject": "yourtrace.online x daily.dev: content partnership",
     "message_id": "<178011978696.444088.2587974407941306861@gmail.com>",
-    "notes": "Initial outreach. yourtrace partnership pitch."
+    "notes": "Initial outreach. yourtrace partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "Alpaca",
     "email": "press@alpaca.markets",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "stocksbrew",
     "subject": "stocksbrew.online x Alpaca: market data partnership",
     "message_id": "<178011979025.444088.4126454391747831730@gmail.com>",
-    "notes": "Initial outreach. stocksbrew partnership pitch."
+    "notes": "Initial outreach. stocksbrew partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "CircleCI",
     "email": "press@circleci.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-05-30",
     "track": "YouTube",
     "subject": "YouTube sponsorship: CI/CD content for dev audience",
     "message_id": "<178011979432.444088.15277805623853644705@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 6)"
   },
   {
     "name": "Grammarly",
