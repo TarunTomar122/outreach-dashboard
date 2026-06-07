@@ -1087,42 +1087,46 @@
   {
     "name": "Grammarly",
     "email": "affiliate_mktg@grammarly.com",
-    "status": "sent",
+    "status": "followed_up",
     "date_contacted": "2026-05-31",
     "track": "YouTube",
     "subject": "YouTube sponsorship: AI writing tools for dev audience",
     "message_id": "<178020574754.459718.3017451459949099301@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Follow-up sent 2026-06-07. Original sent 2026-05-31. No reply after 7+ days (was no_reply).",
+    "followup_date": "2026-06-07"
   },
   {
     "name": "Miro",
     "email": "affiliates@miro.com",
-    "status": "sent",
+    "status": "followed_up",
     "date_contacted": "2026-05-31",
     "track": "YouTube",
     "subject": "YouTube sponsorship: visual collaboration for devs",
     "message_id": "<178020575340.459718.13745321168603241992@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Follow-up sent 2026-06-07. Original sent 2026-05-31. No reply after 7+ days (was no_reply).",
+    "followup_date": "2026-06-07"
   },
   {
     "name": "Shopify",
     "email": "affiliates@shopify.com",
-    "status": "sent",
+    "status": "followed_up",
     "date_contacted": "2026-05-31",
     "track": "YouTube",
     "subject": "YouTube sponsorship: building ecommerce with Shopify",
     "message_id": "<178020575691.459718.11949623304030306541@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Follow-up sent 2026-06-07. Original sent 2026-05-31. No reply after 7+ days (was no_reply).",
+    "followup_date": "2026-06-07"
   },
   {
     "name": "Netlify",
     "email": "community@netlify.com",
-    "status": "sent",
+    "status": "followed_up",
     "date_contacted": "2026-05-31",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Netlify for indie devs",
     "message_id": "<178020576031.459718.710563553790112287@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Follow-up sent 2026-06-07. Original sent 2026-05-31. No reply after 7+ days (was no_reply).",
+    "followup_date": "2026-06-07"
   },
   {
     "name": "Framer",
@@ -1138,12 +1142,13 @@
   {
     "name": "BetterHelp",
     "email": "contact@betterhelp.com",
-    "status": "sent",
+    "status": "followed_up",
     "date_contacted": "2026-05-31",
     "track": "YouTube",
     "subject": "YouTube sponsorship: mental health for developers",
     "message_id": "<178020576695.459718.9550259609870830494@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Follow-up sent 2026-06-07. Original sent 2026-05-31. No reply after 7+ days (was no_reply).",
+    "followup_date": "2026-06-07"
   },
   {
     "name": "QuillBot",
@@ -1307,43 +1312,93 @@
     "message_id": "<178046504964.498912.6310724401811795185@gmail.com>"
   },
   {
-    "company": "Firecrawl",
     "email": "leanne@markigy.com",
     "status": "sent",
     "date": "Jun 04 2026",
     "message_id": "<178058782286.519712.1741864576670116940@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach"
+    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "name": "Firecrawl"
   },
   {
-    "company": "Mintlify",
     "email": "han@mintlify.com",
     "status": "sent",
     "date": "Jun 04 2026",
     "message_id": "<178058782618.519712.9011460975514728304@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach"
+    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "name": "Mintlify"
   },
   {
-    "company": "CopilotKit",
     "email": "hello@copilotkit.ai",
     "status": "sent",
     "date": "Jun 04 2026",
     "message_id": "<178058783038.519712.8647226566947757299@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach"
+    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "name": "CopilotKit"
   },
   {
-    "company": "Deno",
     "email": "hello@deno.com",
     "status": "sent",
     "date": "Jun 04 2026",
     "message_id": "<178058783455.519712.14429123299488250016@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach"
+    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "name": "Deno"
   },
   {
-    "company": "Tavily",
     "email": "hello@tavily.com",
     "status": "sent",
     "date": "Jun 04 2026",
     "message_id": "<178058783790.519712.2179127864443865602@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach"
+    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "name": "Tavily"
+  },
+  {
+    "name": "Perplexity",
+    "email": "partnerships@perplexity.ai",
+    "status": "sent",
+    "date_contacted": "2026-06-07",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: Perplexity for indie developers",
+    "message_id": "<178081059607.545897.8166485244700049217@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "ngrok",
+    "email": "support@ngrok.com",
+    "status": "sent",
+    "date_contacted": "2026-06-07",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: ngrok for indie developers",
+    "message_id": "<178081059960.545897.13917233387595171955@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Checkly",
+    "email": "info@checklyhq.com",
+    "status": "sent",
+    "date_contacted": "2026-06-07",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: monitoring for indie developers",
+    "message_id": "<178081060300.545897.18428721810789336059@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Infisical",
+    "email": "team@infisical.com",
+    "status": "sent",
+    "date_contacted": "2026-06-07",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: secrets management for indie devs",
+    "message_id": "<178081060711.545897.6256930600989521789@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Encore",
+    "email": "press@encore.dev",
+    "status": "sent",
+    "date_contacted": "2026-06-07",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: Encore for backend development",
+    "message_id": "<178081061055.545897.6216338075357760271@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
   }
 ]
