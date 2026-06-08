@@ -1164,52 +1164,52 @@
   {
     "name": "N8N",
     "email": "partners@n8n.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-01",
     "track": "YouTube",
     "subject": "YouTube sponsorship: workflow automation for indie devs",
     "message_id": "<178029226763.472565.2260682504841438803@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 8)."
   },
   {
     "name": "Astro",
     "email": "press@astro.build",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-01",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Astro for indie developers",
     "message_id": "<178029227182.472565.10708979261688677658@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 8)."
   },
   {
     "name": "Apollo",
     "email": "partners@apollo.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-01",
     "track": "YouTube",
     "subject": "YouTube sponsorship: sales intelligence for indie devs",
     "message_id": "<178029227519.472565.3976852776932022426@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 8)."
   },
   {
     "name": "Hunter",
     "email": "press@hunter.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-01",
     "track": "YouTube",
     "subject": "YouTube sponsorship: email tools for indie devs",
     "message_id": "<178029227918.472565.1730027801862593531@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. | No reply after 7 days (marked no_reply Jun 8)."
   },
   {
     "name": "Ghost CMS",
     "email": "support@ghost.org",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-01",
     "track": "yourtrace",
     "subject": "yourtrace.online x Ghost CMS: publishing partnership",
     "message_id": "<178029228324.472565.17447210671448880703@gmail.com>",
-    "notes": "Initial outreach. yourtrace partnership pitch."
+    "notes": "Initial outreach. yourtrace partnership pitch. | No reply after 7 days (marked no_reply Jun 8)."
   },
   {
     "name": "Sourcegraph",
