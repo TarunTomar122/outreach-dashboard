@@ -1318,42 +1318,42 @@
   },
   {
     "email": "leanne@markigy.com",
-    "status": "sent",
+    "status": "no_reply",
     "date": "Jun 04 2026",
     "message_id": "<178058782286.519712.1741864576670116940@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
     "name": "Firecrawl"
   },
   {
     "email": "han@mintlify.com",
-    "status": "sent",
+    "status": "no_reply",
     "date": "Jun 04 2026",
     "message_id": "<178058782618.519712.9011460975514728304@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
     "name": "Mintlify"
   },
   {
     "email": "hello@copilotkit.ai",
-    "status": "sent",
+    "status": "no_reply",
     "date": "Jun 04 2026",
     "message_id": "<178058783038.519712.8647226566947757299@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
     "name": "CopilotKit"
   },
   {
     "email": "hello@deno.com",
-    "status": "sent",
+    "status": "no_reply",
     "date": "Jun 04 2026",
     "message_id": "<178058783455.519712.14429123299488250016@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
     "name": "Deno"
   },
   {
     "email": "hello@tavily.com",
-    "status": "sent",
+    "status": "no_reply",
     "date": "Jun 04 2026",
     "message_id": "<178058783790.519712.2179127864443865602@gmail.com>",
-    "notes": "New outreach batch Jun 4 - automated daily outreach",
+    "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
     "name": "Tavily"
   },
   {
@@ -1455,5 +1455,45 @@
     "subject": "YouTube sponsorship: API SDK generation for devs",
     "message_id": "<178106972826.590881.1633665448670858329@gmail.com>",
     "notes": "Initial outreach. Email verified via MX on verified MX on speakeasy.com. YouTube partnership pitch."
+  },
+  {
+    "name": "Trigger.dev",
+    "email": "hello@trigger.dev",
+    "status": "sent",
+    "date": "2026-06-11",
+    "message_id": "<178114857973.621288.9065242251957510859@gmail.com>",
+    "notes": "Initial outreach. YouTube sponsorship pitch: AI workflows comparison video angle."
+  },
+  {
+    "name": "Loops",
+    "email": "hey@loops.so",
+    "status": "sent",
+    "date": "2026-06-11",
+    "message_id": "<178114858403.621288.8692594786731567513@gmail.com>",
+    "notes": "Initial outreach. YouTube sponsorship pitch: SaaS email system build video angle."
+  },
+  {
+    "name": "Inngest",
+    "email": "partners@inngest.com",
+    "status": "sent",
+    "date": "2026-06-11",
+    "message_id": "<178114858828.621288.1359621945079640750@gmail.com>",
+    "notes": "Initial outreach. YouTube sponsorship pitch: workflow orchestration comparison video angle."
+  },
+  {
+    "name": "Argos",
+    "email": "contact@argos-ci.com",
+    "status": "sent",
+    "date": "2026-06-11",
+    "message_id": "<178114859250.621288.8325216445012345292@gmail.com>",
+    "notes": "Initial outreach. YouTube sponsorship pitch: visual testing for indie devs video angle."
+  },
+  {
+    "name": "Koyeb",
+    "email": "partners@koyeb.com",
+    "status": "sent",
+    "date": "2026-06-11",
+    "message_id": "<178114859674.621288.10968090216579086008@gmail.com>",
+    "notes": "Initial outreach. YouTube sponsorship pitch: serverless deployment platform comparison video angle. Noted Mistral AI acquisition."
   }
 ]
