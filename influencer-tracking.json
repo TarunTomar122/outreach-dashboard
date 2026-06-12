@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03",
+  "last_updated": "2026-06-12",
   "app": "Trace (online.yourtrace.app)",
   "contacts": [
     {
@@ -1198,6 +1198,66 @@
       "app": "stocksbrew.online",
       "notes": "Daily outreach batch June 3. Indian finance content creator. Covers stock market basics, F&O trading, and personal finance for young investors.. Verified MX.",
       "message_id": "<178046128368.498570.11813613523053403178@gmail.com>"
+    },
+    {
+      "name": "AIVISOR",
+      "email": "totallyaicollab@gmail.com",
+      "handle": "@AIVISOR1",
+      "platform": "YouTube",
+      "followers": "240K",
+      "email_source": "YouTube channel description",
+      "status": "email_sent",
+      "date_contacted": "2026-06-12",
+      "angle": "AI tools and productivity reviews, video on underrated AI tools that save hours",
+      "content_ref": "your video on underrated AI tools that save you hours",
+      "app": "stocksbrew.online",
+      "notes": "Daily outreach batch June 12. AI tools/productivity channel with 240K subs. Sent StocksBrew pitch. Verified MX.",
+      "message_id": "<178124081228.649345.1465666565519784527@gmail.com>"
+    },
+    {
+      "name": "Cian (The AI Productivity Coach)",
+      "email": "cian@aiproductivitycoach.com",
+      "handle": "@AIProductivityCoach",
+      "platform": "YouTube",
+      "followers": "26.1K",
+      "email_source": "aiproductivitycoach.com/contact",
+      "status": "email_sent",
+      "date_contacted": "2026-06-12",
+      "angle": "AI productivity coach, Task-First Learning Path framework, practical AI workflows",
+      "content_ref": "your Task-First Learning Path framework and practical AI content",
+      "app": "yourtrace.online",
+      "notes": "Daily outreach batch June 12. AI productivity channel with 26K subs. Verified email from website. Verified MX.",
+      "message_id": "<178124081601.649345.7760527262440112754@gmail.com>"
+    },
+    {
+      "name": "AI with PortilloBoss",
+      "email": "aiportilloboss@hotmail.com",
+      "handle": "@aiportilloboss",
+      "platform": "YouTube",
+      "followers": "636K",
+      "email_source": "YouTube channel description",
+      "status": "email_sent",
+      "date_contacted": "2026-06-12",
+      "angle": "AI tools, automation software, and AI breakthroughs",
+      "content_ref": "your channel covering AI tools and automation",
+      "app": "yourtrace.online",
+      "notes": "Daily outreach batch June 12. Large AI tools channel with 636K subs. Business email from description. Verified MX.",
+      "message_id": "<178124081944.649345.2593879543345601539@gmail.com>"
+    },
+    {
+      "name": "Stoic Soft",
+      "email": "hello@stoicsoft.com",
+      "handle": "@StoicSoft",
+      "platform": "YouTube",
+      "followers": "47",
+      "email_source": "stoicsoft.com",
+      "status": "email_sent",
+      "date_contacted": "2026-06-12",
+      "angle": "Indie dev building offline-first desktop tools for developers (Server Compass, 1DevTool). Same audience as YourTrace.",
+      "content_ref": "your philosophy of offline-first, one-time-payment developer tools",
+      "app": "yourtrace.online",
+      "notes": "Daily outreach batch June 12. Small but niche-perfect indie dev tools channel. Verified email from website. Verified MX.",
+      "message_id": "<178124082294.649345.6136764878670337439@gmail.com>"
     }
   ],
   "status_legend": {

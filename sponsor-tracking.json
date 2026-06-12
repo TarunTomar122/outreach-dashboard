@@ -1238,12 +1238,13 @@
   {
     "name": "Tabnine",
     "email": "community@tabnine.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-06-03",
     "track": "YouTube",
     "subject": "YouTube sponsorship: AI code assistant content for devs",
     "notes": "Initial outreach. | No reply after 7+ days (marked no_reply Jun 10).",
-    "message_id": "<178046502439.498912.801326947632843610@gmail.com>"
+    "message_id": "<178046502439.498912.801326947632843610@gmail.com>",
+    "followup_date": "2026-06-12"
   },
   {
     "name": "WorkOS",
@@ -1259,102 +1260,113 @@
   {
     "name": "Val Town",
     "email": "hi@val.town",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-06-03",
     "track": "YouTube",
     "subject": "YouTube sponsorship: cloud scripting for indie devs",
     "notes": "Initial outreach. | No reply after 7+ days (marked no_reply Jun 10).",
-    "message_id": "<178046503127.498912.8417139666263958777@gmail.com>"
+    "message_id": "<178046503127.498912.8417139666263958777@gmail.com>",
+    "followup_date": "2026-06-12"
   },
   {
     "name": "Coda",
     "email": "partners@coda.io",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-06-03",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Coda for indie dev productivity",
     "notes": "Initial outreach. | No reply after 7+ days (marked no_reply Jun 10).",
-    "message_id": "<178046503456.498912.15417752484337595055@gmail.com>"
+    "message_id": "<178046503456.498912.15417752484337595055@gmail.com>",
+    "followup_date": "2026-06-12"
   },
   {
     "name": "Coinbase",
     "email": "press@coinbase.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-06-03",
     "track": "stocksbrew",
     "subject": "stocksbrew.online x Coinbase partnership",
     "notes": "Initial outreach. | No reply after 7+ days (marked no_reply Jun 10).",
-    "message_id": "<178046503877.498912.1160141700262014279@gmail.com>"
+    "message_id": "<178046503877.498912.1160141700262014279@gmail.com>",
+    "followup_date": "2026-06-12"
   },
   {
     "name": "YCharts",
     "email": "hello@ycharts.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-06-03",
     "track": "stocksbrew",
     "subject": "stocksbrew.online x YCharts partnership",
     "notes": "Initial outreach. | No reply after 7+ days (marked no_reply Jun 10).",
-    "message_id": "<178046504221.498912.4196591671930101031@gmail.com>"
+    "message_id": "<178046504221.498912.4196591671930101031@gmail.com>",
+    "followup_date": "2026-06-12"
   },
   {
     "name": "Pinecone",
     "email": "affiliates@pinecone.io",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-06-03",
     "track": "yourtrace",
     "subject": "Creator partnership: Pinecone + yourtrace.online",
     "notes": "Initial outreach. | No reply after 7+ days (marked no_reply Jun 10).",
-    "message_id": "<178046504563.498912.16514964176644848346@gmail.com>"
+    "message_id": "<178046504563.498912.16514964176644848346@gmail.com>",
+    "followup_date": "2026-06-12"
   },
   {
     "name": "Matter",
     "email": "hello@getmatter.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date_contacted": "2026-06-03",
     "track": "yourtrace",
     "subject": "yourtrace.online x Matter partnership",
     "notes": "Initial outreach. | No reply after 7+ days (marked no_reply Jun 10).",
-    "message_id": "<178046504964.498912.6310724401811795185@gmail.com>"
+    "message_id": "<178046504964.498912.6310724401811795185@gmail.com>",
+    "followup_date": "2026-06-12"
   },
   {
     "email": "leanne@markigy.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date": "Jun 04 2026",
     "message_id": "<178058782286.519712.1741864576670116940@gmail.com>",
     "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
-    "name": "Firecrawl"
+    "name": "Firecrawl",
+    "followup_date": "2026-06-12"
   },
   {
     "email": "han@mintlify.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date": "Jun 04 2026",
     "message_id": "<178058782618.519712.9011460975514728304@gmail.com>",
     "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
-    "name": "Mintlify"
+    "name": "Mintlify",
+    "followup_date": "2026-06-12"
   },
   {
     "email": "hello@copilotkit.ai",
-    "status": "no_reply",
+    "status": "followed_up",
     "date": "Jun 04 2026",
     "message_id": "<178058783038.519712.8647226566947757299@gmail.com>",
     "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
-    "name": "CopilotKit"
+    "name": "CopilotKit",
+    "followup_date": "2026-06-12"
   },
   {
     "email": "hello@deno.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date": "Jun 04 2026",
     "message_id": "<178058783455.519712.14429123299488250016@gmail.com>",
     "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
-    "name": "Deno"
+    "name": "Deno",
+    "followup_date": "2026-06-12"
   },
   {
     "email": "hello@tavily.com",
-    "status": "no_reply",
+    "status": "followed_up",
     "date": "Jun 04 2026",
     "message_id": "<178058783790.519712.2179127864443865602@gmail.com>",
     "notes": "New outreach batch Jun 4 - automated daily outreach | Marked no_reply on 2026-06-11 after 7 days without reply",
-    "name": "Tavily"
+    "name": "Tavily",
+    "followup_date": "2026-06-12"
   },
   {
     "name": "Perplexity",
@@ -1495,5 +1507,55 @@
     "date": "2026-06-11",
     "message_id": "<178114859674.621288.10968090216579086008@gmail.com>",
     "notes": "Initial outreach. YouTube sponsorship pitch: serverless deployment platform comparison video angle. Noted Mistral AI acquisition."
+  },
+  {
+    "name": "Cal.com",
+    "email": "support@cal.com",
+    "status": "sent",
+    "date": "2026-06-12",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: scheduling tools for indie developers",
+    "message_id": "<178124392563.650289.176029313675809222@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX."
+  },
+  {
+    "name": "Paddle",
+    "email": "partnerships@paddle.com",
+    "status": "sent",
+    "date": "2026-06-12",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: payments infrastructure for indie devs",
+    "message_id": "<178124393179.650289.16357163597077907467@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX."
+  },
+  {
+    "name": "Doppler",
+    "email": "hello@doppler.com",
+    "status": "sent",
+    "date": "2026-06-12",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: secrets management for indie devs",
+    "message_id": "<178124393730.650289.14733178377454934861@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX."
+  },
+  {
+    "name": "Liveblocks",
+    "email": "hello@liveblocks.io",
+    "status": "sent",
+    "date": "2026-06-12",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: real-time collaboration for indie devs",
+    "message_id": "<178124394275.650289.10378007850786345166@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX."
+  },
+  {
+    "name": "Postmark",
+    "email": "support@postmarkapp.com",
+    "status": "sent",
+    "date": "2026-06-12",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: email infrastructure for indie devs",
+    "message_id": "<178124394811.650289.13714216967477358642@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX."
   }
 ]
