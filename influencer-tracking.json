@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12",
+  "last_updated": "2026-06-13",
   "app": "Trace (online.yourtrace.app)",
   "contacts": [
     {
@@ -1258,6 +1258,19 @@
       "app": "yourtrace.online",
       "notes": "Daily outreach batch June 12. Small but niche-perfect indie dev tools channel. Verified email from website. Verified MX.",
       "message_id": "<178124082294.649345.6136764878670337439@gmail.com>"
+    },
+    {
+      "name": "AI with Hassan",
+      "handle": "@ai.with.hassan",
+      "platform": "youtube",
+      "followers": "21.2K",
+      "email": "ai.with.hassan@gmail.com",
+      "email_source": "Website footer (aiwithhassan.com)",
+      "status": "email_sent",
+      "date_contacted": "2026-06-13",
+      "angle": "AI tools and education, pitched Trace AI news aggregator",
+      "notes": "Found via YouTube search for AI/dev tool creators. Email verified via MX check. Sent pitch for yourtrace.online.",
+      "message_id": "<178132736923.663475.12414107100281091671@gmail.com>"
     }
   ],
   "status_legend": {

@@ -1381,12 +1381,13 @@
   {
     "name": "ngrok",
     "email": "support@ngrok.com",
-    "status": "sent",
+    "status": "replied",
     "date_contacted": "2026-06-07",
     "track": "YouTube",
     "subject": "YouTube sponsorship: ngrok for indie developers",
     "message_id": "<178081059960.545897.13917233387595171955@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch."
+    "notes": "Initial outreach. YouTube partnership pitch. Auto-reply received 2026-06-07: request received by ngrok support (66873).",
+    "reply_date": "2026-06-07"
   },
   {
     "name": "Checkly",
@@ -1557,5 +1558,107 @@
     "subject": "YouTube sponsorship: email infrastructure for indie devs",
     "message_id": "<178124394811.650289.13714216967477358642@gmail.com>",
     "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX."
+  },
+  {
+    "name": "Knock",
+    "email": "support@knock.app",
+    "status": "sent",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: notification infrastructure for indie devs",
+    "message_id": "<178131150261.660230.6810740855931396367@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Tally.so",
+    "email": "hello@tally.so",
+    "status": "sent",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: form builder for indie developers",
+    "message_id": "<178131150677.660230.5394740382765444497@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Dub.co",
+    "email": "support@dub.co",
+    "status": "replied",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: link analytics for indie developers",
+    "message_id": "<178131151082.660230.12402370421031846693@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. | Auto-reply Jun 13: inbox not monitored, directed to dub.co/support. Dead end for email outreach.",
+    "reply_date": "2026-06-13"
+  },
+  {
+    "name": "SST",
+    "email": "hello@sst.dev",
+    "status": "sent",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: deploying indie apps with SST",
+    "message_id": "<178131151489.660230.2570219823764733529@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch."
+  },
+  {
+    "name": "Axiom",
+    "email": "support@axiom.co",
+    "status": "replied",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: observability for indie developers",
+    "message_id": "<178131151889.660230.4799404359629407181@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. | Auto-reply Jun 13: received message, will be in touch soon.",
+    "reply_date": "2026-06-13"
+  },
+  {
+    "name": "GitHub",
+    "email": "press@github.com",
+    "status": "sent",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: GitHub Copilot + dev workflow content",
+    "message_id": "<178132915497.663945.10562309955263420883@gmail.com>",
+    "notes": "Initial outreach. Email verified via MX on github.com. YouTube partnership pitch."
+  },
+  {
+    "name": "Kinsta",
+    "email": "hello@kinsta.com",
+    "status": "sent",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: managed hosting for indie developers",
+    "message_id": "<178132915839.663945.206305119177514930@gmail.com>",
+    "notes": "Initial outreach. Email verified via MX on kinsta.com. YouTube partnership pitch."
+  },
+  {
+    "name": "Vultr",
+    "email": "support@vultr.com",
+    "status": "sent",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: cloud infrastructure for indie devs",
+    "message_id": "<178132916391.663945.18097745000014511002@gmail.com>",
+    "notes": "Initial outreach. Email verified via MX on vultr.com. YouTube partnership pitch."
+  },
+  {
+    "name": "Cohere",
+    "email": "press@cohere.ai",
+    "status": "sent",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: enterprise AI models for developers",
+    "message_id": "<178132916796.663945.16699268465832076526@gmail.com>",
+    "notes": "Initial outreach. Email verified via MX on cohere.ai. YouTube partnership pitch."
+  },
+  {
+    "name": "Ramp",
+    "email": "partnerships@ramp.com",
+    "status": "sent",
+    "date_contacted": "2026-06-13",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: finance tools for indie developers",
+    "message_id": "<178132917131.663945.5983381441538356698@gmail.com>",
+    "notes": "Initial outreach. Email verified via MX on ramp.com. YouTube partnership pitch."
   }
 ]
