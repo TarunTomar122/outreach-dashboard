@@ -1,7 +1,59 @@
 {
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-16",
   "app": "Trace (online.yourtrace.app)",
   "contacts": [
+    {
+      "name": "The AI Grid",
+      "handle": "@TheAiGrid",
+      "platform": "youtube",
+      "followers": "unknown",
+      "email": "contact@theaigrid.com",
+      "email_source": "Website contact page",
+      "status": "contacted",
+      "date_contacted": "2026-06-16",
+      "angle": "AI tool reviews and tutorials, audience interested in discovering new AI tools",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check.",
+      "message_id": null
+    },
+    {
+      "name": "Skill Leap AI",
+      "handle": "@SkillLeapAI",
+      "platform": "youtube",
+      "followers": "unknown",
+      "email": "support@skillleap.ai",
+      "email_source": "Crunchbase/Trustpilot",
+      "status": "contacted",
+      "date_contacted": "2026-06-16",
+      "angle": "Step-by-step AI tutorials and courses, helps people upskill with AI tools",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check.",
+      "message_id": null
+    },
+    {
+      "name": "NoCode MBA",
+      "handle": "@nocodemba",
+      "platform": "youtube",
+      "followers": "unknown",
+      "email": "seth@nocode.mba",
+      "email_source": "Privacy policy page",
+      "status": "contacted",
+      "date_contacted": "2026-06-16",
+      "angle": "No-code tutorials and AI product building content, perfect for builders and creators",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check.",
+      "message_id": null
+    },
+    {
+      "name": "Developers Digest",
+      "handle": "@DevelopersDigest",
+      "platform": "youtube",
+      "followers": "unknown",
+      "email": "jonathan@sideguide.dev",
+      "email_source": "Press kit page",
+      "status": "contacted",
+      "date_contacted": "2026-06-16",
+      "angle": "AI development tutorials and technical guides, content for developers",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check.",
+      "message_id": null
+    },
     {
       "name": "Gaurav Singh",
       "handle": "@tech_with_gaurav",
