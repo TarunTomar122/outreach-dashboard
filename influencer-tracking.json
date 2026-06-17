@@ -1323,6 +1323,71 @@
       "angle": "AI tools and education, pitched Trace AI news aggregator",
       "notes": "Found via YouTube search for AI/dev tool creators. Email verified via MX check. Sent pitch for yourtrace.online.",
       "message_id": "<178132736923.663475.12414107100281091671@gmail.com>"
+    },
+    {
+      "name": "Andrew Codesmith",
+      "handle": "@andrewcodesmith",
+      "email": "hello@andrewcodesmith.com",
+      "email_verified": true,
+      "status": "contacted",
+      "channel_subs": "95.3K",
+      "channel_focus": "tech, code, apps, travel",
+      "platform": "yourtrace.online",
+      "date_contacted": "2026-06-17",
+      "message_id": "<178167287459.723676.17596739185032668173@gmail.com>",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check."
+    },
+    {
+      "name": "Maddy Zhang",
+      "handle": "@maddyzhang",
+      "email": "contactmaddyz@gmail.com",
+      "email_verified": true,
+      "status": "contacted",
+      "channel_subs": "76.9K",
+      "channel_focus": "ex-Google SWE, career/tech tips, coding memes",
+      "platform": "yourtrace.online",
+      "date_contacted": "2026-06-17",
+      "message_id": "<178167287817.723676.1776985169679440445@gmail.com>",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check."
+    },
+    {
+      "name": "Chris Raroque",
+      "handle": "@raroque",
+      "email": "chris@aloa.co",
+      "email_verified": true,
+      "status": "contacted",
+      "channel_subs": "91.1K",
+      "channel_focus": "solo app developer, productivity apps (Ellie, Luna)",
+      "platform": "yourtrace.online",
+      "date_contacted": "2026-06-17",
+      "message_id": "<178167288193.723676.9726390581004498726@gmail.com>",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check. Website: chrisraroque.com, runs aloa.co software studio."
+    },
+    {
+      "name": "Axel Molist",
+      "handle": "@axelmolist",
+      "email": "amc@axelmolist.com",
+      "email_verified": true,
+      "status": "contacted",
+      "channel_subs": "9.4K",
+      "channel_focus": "SaaS founder, tech, AI, no outside investment",
+      "platform": "yourtrace.online",
+      "date_contacted": "2026-06-17",
+      "message_id": "<178167288606.723676.16867626506768655954@gmail.com>",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check. CEO of We UC, built circle.cloud to 100+ team."
+    },
+    {
+      "name": "DevForge",
+      "handle": "@devforgehq",
+      "email": "garimaytstudio@gmail.com",
+      "email_verified": true,
+      "status": "contacted",
+      "channel_subs": "13.1K",
+      "channel_focus": "code, creativity, web dev tutorials",
+      "platform": "yourtrace.online",
+      "date_contacted": "2026-06-17",
+      "message_id": "<178167288964.723676.15406100735255467053@gmail.com>",
+      "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check."
     }
   ],
   "status_legend": {

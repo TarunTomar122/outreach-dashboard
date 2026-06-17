@@ -50,9 +50,9 @@
   {
     "name": "Resend",
     "email": "support@resend.com",
-    "status": "replied",
+    "status": "no_reply",
     "date_contacted": "2026-05-04",
-    "notes": "Auto-reply: team is reviewing, will get back soon.",
+    "notes": "Auto-reply: team is reviewing, will get back soon. Marked no_reply on 2026-06-16 (7+ days with no real follow-up).",
     "reply_date": "2026-05-04"
   },
   {
@@ -879,10 +879,10 @@
   {
     "name": "MoneyLion",
     "email": "customercare@moneylion.com",
-    "status": "replied",
+    "status": "no_reply",
     "date_contacted": "2026-05-28",
     "track": "stocksbrew",
-    "notes": "Initial outreach. Auto-reply: Customer Care will assign a specialist within 24 hours.",
+    "notes": "Initial outreach. Auto-reply: Customer Care will assign a specialist within 24 hours. Marked no_reply on 2026-06-16 (7+ days with no real follow-up).",
     "subject": "stocksbrew.online x MoneyLion partnership",
     "message_id": "<177994667734.370535.13881317363550036974@gmail.com>",
     "reply_date": "2026-05-28"
@@ -932,10 +932,10 @@
   {
     "name": "Plausible",
     "email": "hello@plausible.io",
-    "status": "replied",
+    "status": "no_reply",
     "date_contacted": "2026-05-29",
     "track": "YouTube",
-    "notes": "Initial outreach. Privacy analytics comparison video pitch. Auto-reply: will respond within 1 business day. | Auto-reply May 29, no real human response yet.",
+    "notes": "Initial outreach. Privacy analytics comparison video pitch. Auto-reply: will respond within 1 business day. | Auto-reply May 29, no real human response yet. Marked no_reply on 2026-06-16 (7+ days with no real follow-up).",
     "message_id": "<178003294387.429618.5164040277553866033@gmail.com>",
     "subject": "YouTube sponsorship: Privacy analytics for indie devs",
     "reply_date": "2026-05-29"
@@ -1182,13 +1182,16 @@
   {
     "name": "N8N",
     "email": "partners@n8n.io",
-    "status": "no_reply",
+    "status": "replied",
     "date_contacted": "2026-06-01",
     "track": "YouTube",
     "subject": "YouTube sponsorship: workflow automation for indie devs",
     "message_id": "<178029226763.472565.2260682504841438803@gmail.com>",
-    "notes": "Follow-up sent 2026-06-10. Original sent 2026-06-01. No reply. Marked no_reply on 2026-06-14 (7+ days with no response).",
-    "followup_date": "2026-06-10"
+    "notes": "Follow-up sent 2026-06-10. Original sent 2026-06-01. No reply. Marked no_reply on 2026-06-14 (7+ days with no response). | Auto-reply received Jun 10: high volume, may take a few days. Two auto-replies received.",
+    "followup_date": "2026-06-10",
+    "reply_date": "Wed, 10 Jun 2026 05:32:06 +0000",
+    "reply_subject": "Re: Re: YouTube sponsorship: workflow automation for indie devs",
+    "reply_body_preview": "Hi there, Thanks for your interest in partnering with us. We're experiencing a high volume of inquiries and it might take us a few days to get back to you."
   },
   {
     "name": "Astro",
@@ -1399,12 +1402,12 @@
   {
     "name": "ngrok",
     "email": "support@ngrok.com",
-    "status": "replied",
+    "status": "no_reply",
     "date_contacted": "2026-06-07",
     "track": "YouTube",
     "subject": "YouTube sponsorship: ngrok for indie developers",
     "message_id": "<178081059960.545897.13917233387595171955@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Auto-reply received 2026-06-07: request received by ngrok support (66873).",
+    "notes": "Initial outreach. YouTube partnership pitch. Auto-reply received 2026-06-07: request received by ngrok support (66873). Marked no_reply on 2026-06-16 (7+ days with no real follow-up).",
     "reply_date": "Sun, 07 Jun 2026 05:36:46 +0000",
     "reply_subject": "[Request received]",
     "reply_body_preview": "Thank you for contacting ngrok support! Your request (66873) has been received and is being reviewed by our support staff.\r\n\r\nTo add additional comments, reply to this email.\r\n\r\nPlease note: we can on"
@@ -1442,52 +1445,52 @@
   {
     "name": "Hostinger",
     "email": "partnerships@hostinger.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-10",
     "track": "YouTube",
     "subject": "YouTube sponsorship: hosting content for indie devs",
     "message_id": "<178106971171.590881.16319663439044819308@gmail.com>",
-    "notes": "Initial outreach. Email verified via MX on verified MX on hostinger.com. YouTube partnership pitch."
+    "notes": "Initial outreach. Email verified via MX on verified MX on hostinger.com. YouTube partnership pitch. Marked no_reply on 2026-06-17 (7+ days with no response)."
   },
   {
     "name": "Teachable",
     "email": "partners@teachable.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-10",
     "track": "YouTube",
     "subject": "YouTube sponsorship: course creation for indie devs",
     "message_id": "<178106971604.590881.7095914999874582899@gmail.com>",
-    "notes": "Initial outreach. Email verified via MX on verified MX on teachable.com. YouTube partnership pitch."
+    "notes": "Initial outreach. Email verified via MX on verified MX on teachable.com. YouTube partnership pitch. Marked no_reply on 2026-06-17 (7+ days with no response)."
   },
   {
     "name": "Wix",
     "email": "partners@wix.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-10",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Wix for indie developers",
     "message_id": "<178106972078.590881.2369827893711417574@gmail.com>",
-    "notes": "Initial outreach. Email verified via MX on verified MX on wix.com. YouTube partnership pitch."
+    "notes": "Initial outreach. Email verified via MX on verified MX on wix.com. YouTube partnership pitch. Marked no_reply on 2026-06-17 (7+ days with no response)."
   },
   {
     "name": "Temporal",
     "email": "partners@temporal.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-10",
     "track": "YouTube",
     "subject": "YouTube sponsorship: durable execution for indie devs",
     "message_id": "<178106972449.590881.10581301566378271211@gmail.com>",
-    "notes": "Initial outreach. Email verified via MX on verified MX on temporal.io. YouTube partnership pitch."
+    "notes": "Initial outreach. Email verified via MX on verified MX on temporal.io. YouTube partnership pitch. Marked no_reply on 2026-06-17 (7+ days with no response)."
   },
   {
     "name": "Speakeasy",
     "email": "partners@speakeasy.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-10",
     "track": "YouTube",
     "subject": "YouTube sponsorship: API SDK generation for devs",
     "message_id": "<178106972826.590881.1633665448670858329@gmail.com>",
-    "notes": "Initial outreach. Email verified via MX on verified MX on speakeasy.com. YouTube partnership pitch."
+    "notes": "Initial outreach. Email verified via MX on verified MX on speakeasy.com. YouTube partnership pitch. Marked no_reply on 2026-06-17 (7+ days with no response)."
   },
   {
     "name": "Trigger.dev",
@@ -1570,10 +1573,11 @@
     "track": "YouTube",
     "subject": "YouTube sponsorship: real-time collaboration for indie devs",
     "message_id": "<178124394275.650289.10378007850786345166@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX. | Steven replied Jun 15: open to sponsoring, asking about format and pricing. Needs follow-up with details. | Replied Jun 15: interested in sponsoring, asking about format.",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX. | Steven replied Jun 15: open to sponsoring, asking about format and pricing. Needs follow-up with details. | Replied Jun 15: interested in sponsoring, asking about format. Steven replied Jun 15: open to sponsoring, asked about format and pricing.",
     "reply_date": "2026-06-15",
     "reply_subject": "Re: YouTube sponsorship: real-time collaboration for indie devs",
-    "reply_body_preview": "Hi Tarat, Thanks for reaching out. We are open to sponsoring. What format do you have in mind and what's your expectation price-wise given your audience?"
+    "reply_body_preview": "Hi Tarat, Thanks for reaching out. We are open to sponsoring. What format do you have in mind and what's your expectation price-wise given your audience?",
+    "reply_message_id": "<70f72e17-da46-4c56-a814-f9ed703709f5@mtasv.net>"
   },
   {
     "name": "Postmark",
@@ -1792,12 +1796,15 @@
   {
     "name": "OpenAI",
     "email": "partnerships@openai.com",
-    "status": "sent",
+    "status": "dead",
     "date_contacted": "2026-06-14",
     "track": "YouTube",
     "subject": "YouTube sponsorship: OpenAI tools for developers",
     "message_id": "<178141550662.683535.9981962676054864183@gmail.com>",
-    "notes": "Initial outreach. Email verified via MX on openai.com. YouTube partnership pitch."
+    "notes": "Initial outreach. Email verified via MX on openai.com. YouTube partnership pitch. Auto-reply: inbox no longer monitored. | Auto-reply Jun 14: inbox no longer monitored. Use openai.com/form/partnerintake instead.",
+    "reply_date": "Sun, 14 Jun 2026 05:38:31 +0000",
+    "reply_subject": "Re: YouTube sponsorship: OpenAI tools for developers",
+    "reply_body_preview": "Hello, Thanks for reaching out. This inbox is no longer monitored. If you're interested in Go-To-Market or commercial partnerships, please contact us through openai.com/form/partnerintake."
   },
   {
     "name": "GitPod",
@@ -2004,8 +2011,10 @@
     "brand": "ShortForm",
     "status": "replied",
     "date_contacted": "2026-05-30",
-    "reply_subject": "Re: Affiliate partnership inquiry \u2014 @tarat.youtube (4.3K subs, dev audience)",
-    "reply_body_preview": "Hi, Thanks for reaching out. Is this your channel: https://www.youtube.com/@tarat.youtube? Max",
-    "reply_date": "Tue, 2 Jun 2026 12:55:55 -0400"
+    "reply_subject": "Re: Affiliate partnership inquiry - @tarat.youtube (4.3K subs, dev audience)",
+    "reply_body_preview": "Hi Tarun, Totally understand. At this stage, unfortunately we don't have the capacity for more flat rate partners. If it goes well though, we can assess a flat rate for future sponsorships. However, we would have to start with the strict profit sharing model for now. If you want to give it a shot, let me know. Max",
+    "reply_date": "Tue, 16 Jun 2026 06:17:53 -0400",
+    "reply_message_id": "<CANothaZTnutKrpfFmdnVNq26DPaXDGjZ7YcRH7kD+_Ye5+PV2Q@mail.gmail.com>",
+    "notes": " | Max replied Jun 16: no capacity for flat rate partners, only profit sharing model. Can assess flat rate later if it goes well."
   }
 ]
