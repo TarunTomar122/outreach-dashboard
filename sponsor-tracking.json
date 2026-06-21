@@ -1715,8 +1715,8 @@
     "status": "replied",
     "date_contacted": "2026-06-03",
     "track": "stocksbrew",
-    "reply_date": "2026-06-19",
-    "notes": "Positive, will contact when they have requirements.",
+    "reply_date": "2026-06-13",
+    "notes": "Positive, will contact when they have requirements. | Replied Jun 13: polite acknowledgment, will contact if they have requirements. Soft no for now.",
     "message_id": "",
     "reply_subject": "Re: StocksBrew - daily market intelligence for value investors",
     "reply_body_preview": "Hi Tarat,\r\n\r\nCongratulations on building StocksBrew. This looks pretty sleek and\r\ninformative.\r\nWe will contact you whenever we have requirements for this type of feed.\r\n\r\nAll the best for StocksBrew.",
@@ -1737,7 +1737,7 @@
   {
     "name": "Letta",
     "email": "hello@letta.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-14",
     "track": "YouTube",
     "subject": "YouTube sponsorship: building stateful AI agents with Letta",
@@ -1747,7 +1747,7 @@
   {
     "name": "Qdrant",
     "email": "team@qdrant.tech",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-14",
     "track": "YouTube",
     "subject": "YouTube sponsorship: vector database content for dev audience",
@@ -1757,7 +1757,7 @@
   {
     "name": "Zed",
     "email": "team@zed.dev",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-14",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Zed editor content for developers",
@@ -1781,7 +1781,7 @@
   {
     "name": "Robinhood",
     "email": "partnerships@robinhood.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-14",
     "track": "stocksbrew",
     "subject": "stocksbrew.online x Robinhood partnership",
@@ -1791,7 +1791,7 @@
   {
     "name": "Webull",
     "email": "partnerships@webull.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-14",
     "track": "stocksbrew",
     "subject": "stocksbrew.online x Webull partnership",
@@ -1801,7 +1801,7 @@
   {
     "name": "GitPod",
     "email": "partnerships@gitpod.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-14",
     "track": "YouTube",
     "subject": "YouTube sponsorship: GitPod for indie developers",
@@ -2251,5 +2251,105 @@
     "subject": "YouTube sponsorship: landing page content for indie developers",
     "message_id": "<178193399035.768084.5014539981103810454@gmail.com>",
     "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Tailscale",
+    "email": "partnerships@tailscale.com",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: secure dev networking with Tailscale",
+    "message_id": "<178200194677.774771.9723981972148924147@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: secure dev environment with Tailscale for indie devs. Email verified via MX check."
+  },
+  {
+    "name": "Calendly",
+    "email": "partnerships@calendly.com",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: scheduling tools for indie developers",
+    "message_id": "<178200195122.774771.4135044740918094073@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: managing time as indie developer with Calendly. Email verified via MX check."
+  },
+  {
+    "name": "GitGuardian",
+    "email": "contact@gitguardian.com",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: secrets detection content for developers",
+    "message_id": "<178200195645.774771.5277795694084887342@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: keeping secrets safe in open source with GitGuardian. Email verified via MX check."
+  },
+  {
+    "name": "Snyk",
+    "email": "partners@snyk.io",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: dependency security for indie developers",
+    "message_id": "<178200196150.774771.10722841988593770136@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: dependency security with Snyk for solo devs. Email verified via MX check."
+  },
+  {
+    "name": "Twingate",
+    "email": "partnerships@twingate.com",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: zero trust networking for solo developers",
+    "message_id": "<178200196560.774771.15519934820770473183@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: zero trust networking with Twingate for indie devs. Email verified via MX check."
+  },
+  {
+    "name": "Stytch",
+    "email": "partnerships@stytch.com",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: auth content for indie developer audience",
+    "message_id": "<178202020985.777535.1605069481945084500@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: auth platform for indie apps. Email verified via MX check."
+  },
+  {
+    "name": "Xata",
+    "email": "hello@xata.io",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: serverless database content for indie devs",
+    "message_id": "<178202021342.777535.11158179466646723493@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: serverless database comparison for indie devs. Email verified via MX check."
+  },
+  {
+    "name": "Contentful",
+    "email": "partnerships@contentful.com",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: headless CMS content for indie developers",
+    "message_id": "<178202021679.777535.396966861277519033@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: headless CMS for content-driven indie apps. Email verified via MX check."
+  },
+  {
+    "name": "Revolut",
+    "email": "partnerships@revolut.com",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "stocksbrew",
+    "subject": "stocksbrew.online x Revolut: fintech content partnership",
+    "message_id": "<178202022041.777535.12362749813111793579@gmail.com>",
+    "notes": "Initial outreach. stocksbrew partnership pitch: Revolut for active investors and tech-savvy users. Email verified via MX check."
+  },
+  {
+    "name": "Cloudways",
+    "email": "partnerships@cloudways.com",
+    "status": "sent",
+    "date_contacted": "2026-06-21",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: managed hosting content for indie developers",
+    "message_id": "<178202022377.777535.12516060896930154860@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch: managed hosting for indie app deployment. Email verified via MX check."
   }
 ]
