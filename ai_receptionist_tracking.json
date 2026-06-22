@@ -740,6 +740,46 @@
       "category": "landscaping",
       "city": "Raymond, NH",
       "message_id": "<178094161656.569481.16002154191143298553@gmail.com>"
+    },
+    {
+      "name": "Epping Plumber Service",
+      "email": "eppingplumberservice@gmail.com",
+      "date": "2026-06-22",
+      "category": "plumbing",
+      "city": "Epping NSW",
+      "message_id": "<178210995722.788776.6618985094702527149@gmail.com>"
+    },
+    {
+      "name": "BPC Plumbing LLC",
+      "email": "bpcplumbingllc@gmail.com",
+      "date": "2026-06-22",
+      "category": "plumbing",
+      "city": "Los Angeles",
+      "message_id": "<178210996286.788776.16358424319242500622@gmail.com>"
+    },
+    {
+      "name": "Aspen Plumbing Services",
+      "email": "aspenplumbingservices@gmail.com",
+      "date": "2026-06-22",
+      "category": "plumbing",
+      "city": "Fort Collins",
+      "message_id": "<178210996773.788776.15994765330102432399@gmail.com>"
+    },
+    {
+      "name": "Corey's Plumbing Service",
+      "email": "coreysplumbingllc@gmail.com",
+      "date": "2026-06-22",
+      "category": "plumbing",
+      "city": "Bishopville",
+      "message_id": "<178210997280.788776.7534801361170703306@gmail.com>"
+    },
+    {
+      "name": "Belfast Plumbing",
+      "email": "belfastplumb@gmail.com",
+      "date": "2026-06-22",
+      "category": "plumbing",
+      "city": "Clayton VIC",
+      "message_id": "<178210997781.788776.4591319903579413503@gmail.com>"
     }
   ],
   "failed": [
@@ -793,9 +833,9 @@
     }
   ],
   "date": "2026-05-23",
-  "last_updated": "2026-06-20T18:00:07.317579",
+  "last_updated": "2026-06-22T06:33:02.871978",
   "total_runs": 1,
-  "last_run": "2026-06-20",
+  "last_run": "2026-06-22",
   "dentist_sent": [
     {
       "name": "Brookvale Dental",
