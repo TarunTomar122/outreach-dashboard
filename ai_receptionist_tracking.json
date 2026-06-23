@@ -780,6 +780,70 @@
       "category": "plumbing",
       "city": "Clayton VIC",
       "message_id": "<178210997781.788776.4591319903579413503@gmail.com>"
+    },
+    {
+      "name": "Bryan Moberly Plumbing",
+      "email": "bplumberman@gmail.com",
+      "date": "2026-06-22",
+      "category": "plumbing",
+      "city": "Maryland",
+      "message_id": "<178213680211.791481.576862574654687142@gmail.com>"
+    },
+    {
+      "name": "A.M.J Plumbing Inc",
+      "email": "amjplumbinginc@gmail.com",
+      "date": "2026-06-22",
+      "category": "plumbing",
+      "city": "Miami",
+      "message_id": "<178213680712.791481.9199460361272937832@gmail.com>"
+    },
+    {
+      "name": "Local Plumber LLC",
+      "email": "localplumberllc@gmail.com",
+      "date": "2026-06-22",
+      "category": "plumbing",
+      "city": "South Carolina",
+      "message_id": "<178213681196.791481.1732379431408024022@gmail.com>"
+    },
+    {
+      "name": "A+ Mechanical of PA",
+      "email": "aplusmechanicalofpa@gmail.com",
+      "date": "2026-06-22",
+      "category": "HVAC",
+      "city": "Pennsylvania",
+      "message_id": "<178215121027.793549.1194320176592748181@gmail.com>"
+    },
+    {
+      "name": "BD Air Conditioning",
+      "email": "bdacandesales@gmail.com",
+      "date": "2026-06-22",
+      "category": "HVAC",
+      "city": "Sydney",
+      "message_id": "<178215121518.793549.8061924174033836447@gmail.com>"
+    },
+    {
+      "name": "Atlas HVAC",
+      "email": "atlasair2020@gmail.com",
+      "date": "2026-06-22",
+      "category": "HVAC",
+      "city": "Springwood QLD",
+      "message_id": "<178215122068.793549.7367247410141213569@gmail.com>"
+    },
+    {
+      "name": "Central AC & Heating",
+      "email": "centralacheat@gmail.com",
+      "date": "2026-06-22",
+      "category": "HVAC",
+      "city": "Melbourne VIC",
+      "message_id": "<178215122556.793549.1737487430052184393@gmail.com>"
+    },
+    {
+      "name": "Small Spark Contracting",
+      "email": "smallsparkcontracting@gmail.com",
+      "date": "2026-06-22",
+      "category": "electrician",
+      "city": "Rutherford NSW",
+      "message_id": "<178215123041.793549.1127562738536359455@gmail.com>"
     }
   ],
   "failed": [
@@ -833,7 +897,7 @@
     }
   ],
   "date": "2026-05-23",
-  "last_updated": "2026-06-22T06:33:02.871978",
+  "last_updated": "2026-06-22T18:00:36.020343",
   "total_runs": 1,
   "last_run": "2026-06-22",
   "dentist_sent": [
