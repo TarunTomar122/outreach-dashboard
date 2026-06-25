@@ -52,7 +52,7 @@
     "email": "hello@lemonsqueezy.com",
     "status": "replied",
     "date_contacted": "2026-05-04",
-    "notes": "Support auto-reply asking to clarify issue. Confused inquiry with support request.",
+    "notes": "Still treating as support inquiry, asking to clarify issue. They don't understand it's a sponsorship pitch.",
     "followup_date": "2026-05-20",
     "message_id": "<6a0d36b6.b0d3df43.1131d1.acde@mx.google.com>",
     "followup2_date": "2026-06-16",
@@ -63,7 +63,7 @@
     "email": "support@1password.com",
     "status": "replied",
     "date_contacted": "2026-05-05",
-    "notes": "Interested in credential management content. Follow up.",
+    "notes": "Suggested Affiliate Program instead of traditional sponsorship. Already tracked as replied.",
     "followup_date": "2026-05-20",
     "message_id": "<6a0d36bb.6b54b964.b2831.ee52@mx.google.com>",
     "followup2_date": "2026-06-16",
@@ -317,11 +317,13 @@
   {
     "name": "Upstash",
     "email": "support@upstash.com",
-    "status": "no_reply",
+    "status": "replied",
     "date_contacted": "2026-05-07",
     "notes": "Serverless Redis for indie apps video. Rate limiting and caching for Next.js apps. No reply after 12 days (as of May 19). Follow-up sent 2026-05-20. [UNVERIFIED EMAIL - may have bounced] Marked no_reply on 2026-06-14 (7+ days with no response).",
     "followup_date": "2026-05-20",
-    "message_id": "<6a0d3777.2fdb857b.3a885b.36c0@mx.google.com>"
+    "message_id": "<6a0d3777.2fdb857b.3a885b.36c0@mx.google.com>",
+    "reply_date": "2026-06-23",
+    "reply_note": "Auto-reply: team will get back as soon as they can."
   },
   {
     "name": "Fly.io",
@@ -370,7 +372,7 @@
     "status": "replied",
     "date_contacted": "2026-05-19",
     "track": "tikrr",
-    "notes": "Auto-reply confirming receipt. Pending.",
+    "notes": "Auto-reply: request received and being reviewed.",
     "message_id": "<6a0bda28.ddd6fbd2.4e6a8.bc1e@mx.google.com>",
     "reply_date": "2026-06-12"
   },
@@ -427,7 +429,7 @@
     "status": "replied",
     "date_contacted": "2026-05-19",
     "track": "YouTube",
-    "notes": "Auto-reply: email not monitored. Use support ticket.",
+    "notes": "Email no longer monitored. Need to use replicate.com/support instead.",
     "message_id": "<6a0bf5b4.dffc9bb5.1b0edd.a1b1@mx.google.com>",
     "reply_date": "2026-06-12"
   },
@@ -466,7 +468,7 @@
     "status": "replied",
     "date_contacted": "2026-05-19",
     "track": "tikrr",
-    "notes": "Auto-reply. Redirected to partnerships@public.com. Re-send there.",
+    "notes": "Redirected to partnerships@public.com. Should re-send to that address.",
     "message_id": "<6a0bf5c5.eab1de11.169536.71af@mx.google.com>",
     "reply_date": "2026-06-12"
   },
@@ -1548,7 +1550,7 @@
     "track": "YouTube",
     "subject": "YouTube sponsorship: scheduling tools for indie developers",
     "message_id": "<178124392563.650289.176029313675809222@gmail.com>",
-    "notes": "AI agent forwarded to human teammate Jun 12. Pending human response.",
+    "notes": "AI agent forwarded to human teammate. Pending real response.",
     "reply_date": "2026-06-19",
     "reply_subject": "Re: YouTube sponsorship: scheduling tools for indie developers",
     "reply_body_preview": "Hi tarat, I'm Calvin, Cal's AI support agent. \n I've forwarded your message to a teammate who can help you better. They will look into this further and respond as soon as possible! \n Best, \n Calvin \n ",
@@ -1586,7 +1588,7 @@
     "track": "YouTube",
     "subject": "YouTube sponsorship: real-time collaboration for indie devs",
     "message_id": "<178124394275.650289.10378007850786345166@gmail.com>",
-    "notes": "Steven replied Jun 15 - OPEN TO SPONSORING, asked about format and price. HOT LEAD.",
+    "notes": "INTERESTED! Steven asked about format and pricing. Needs response with rates.",
     "reply_date": "2026-06-19",
     "reply_subject": "Re: YouTube sponsorship: real-time collaboration for indie devs",
     "reply_body_preview": "Hi Tarat, Thanks for reaching out. We are open to sponsoring. What format do you have in mind and what's your expectation price-wise given your audience?",
@@ -1636,7 +1638,7 @@
     "track": "YouTube",
     "subject": "YouTube sponsorship: link analytics for indie developers",
     "message_id": "<178131151082.660230.12402370421031846693@gmail.com>",
-    "notes": "Auto-reply Jun 13 - inbox not monitored, use dub.co/support. Dead end.",
+    "notes": "Inbox not monitored. Need to use dub.co/support. Wrong channel.",
     "reply_date": "2026-06-19",
     "reply_subject": "Re: YouTube sponsorship: link analytics for indie developers",
     "reply_body_preview": "Thank you for contacting Dub!\r\n\r\nThis inbox is not monitored \u2013 to create a support ticket, please use dub.co/support instead.\r\n\r\nYou can also check out our Help Center where you\u2019ll find a variety of a",
@@ -1661,7 +1663,7 @@
     "track": "YouTube",
     "subject": "YouTube sponsorship: observability for indie developers",
     "message_id": "<178131151889.660230.4799404359629407181@gmail.com>",
-    "notes": "Auto-reply Jun 13 - received, will be in touch. Waiting.",
+    "notes": "Auto-reply: received, will be in touch. Pending real response.",
     "reply_date": "2026-06-19",
     "reply_subject": "Re: YouTube sponsorship: observability for indie developers",
     "reply_body_preview": "Thanks for reaching out. We\u2019ve received your message and will be in touch soon with a reply.\r\n\r\nOn Sat, 13 Jun 2026 at 01:45, <tomartarun2001@gmail.com> wrote:\r\n\r\n> Hi Axiom team,\r\n> \r\n> I'm tarat, a ",
@@ -1696,7 +1698,7 @@
     "track": "YouTube",
     "subject": "YouTube sponsorship: cloud infrastructure for indie devs",
     "message_id": "<178132916391.663945.18097745000014511002@gmail.com>",
-    "notes": "Ticket TIY-76NZJ created Jun 13. Waiting for human response.",
+    "notes": "Ticket created (TIY-76NZJ). Awaiting human response.",
     "reply_date": "2026-06-19",
     "reply_subject": "[Ticket:TIY-76NZJ] Re:YouTube sponsorship: cloud infrastructure for indie devs",
     "reply_body_preview": "Dear Vultr Customer,\r\n\r\nA support ticket has been created in our system on your behalf. Here is the ticket summary:\r\n\r\nHi Vultr team,\r\nI&#039;m a solo developer who creates content on @tarat.youtube a",
@@ -1729,7 +1731,7 @@
     "date_contacted": "2026-06-03",
     "track": "stocksbrew",
     "reply_date": "2026-06-13",
-    "notes": "Replied Jun 13 - interested, will contact when they have requirements. Keep warm.",
+    "notes": "Positive response. Will contact when they have requirements. Not a sponsor lead (StocksBrew related).",
     "message_id": "",
     "reply_subject": "Re: StocksBrew - daily market intelligence for value investors",
     "reply_body_preview": "Hi Tarat,\r\n\r\nCongratulations on building StocksBrew. This looks pretty sleek and\r\ninformative.\r\nWe will contact you whenever we have requirements for this type of feed.\r\n\r\nAll the best for StocksBrew.",
@@ -2027,52 +2029,56 @@
   {
     "name": "Cerebras",
     "email": "info@cerebras.ai",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-18",
     "track": "YouTube",
     "subject": "YouTube sponsorship: AI inference speed content for dev audience",
     "message_id": "<178176115174.741335.11628355592411533155@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-06-25 (7+ days with no response)."
   },
   {
     "name": "Brex",
     "email": "partnerships@brex.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-18",
     "track": "YouTube",
     "subject": "YouTube sponsorship: startup finance tools for indie developer audience",
     "message_id": "<178176115784.741335.6840922838195881533@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. | 3rd follow-up sent 2026-06-25 Marked no_reply on 2026-06-25 (7+ days with no response).",
+    "followup2_date": "2026-06-25"
   },
   {
     "name": "Browserbase",
     "email": "hello@browserbase.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-18",
     "track": "YouTube",
     "subject": "YouTube sponsorship: headless browser automation for AI developers",
     "message_id": "<178176116392.741335.9697742244434345874@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. | 3rd follow-up sent 2026-06-25 Marked no_reply on 2026-06-25 (7+ days with no response).",
+    "followup2_date": "2026-06-25"
   },
   {
     "name": "Mux",
     "email": "partnerships@mux.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-18",
     "track": "YouTube",
     "subject": "YouTube sponsorship: video infrastructure content for indie developers",
     "message_id": "<178176116933.741335.14615654565598955281@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. | 3rd follow-up sent 2026-06-25 Marked no_reply on 2026-06-25 (7+ days with no response).",
+    "followup2_date": "2026-06-25"
   },
   {
     "name": "OVHcloud",
     "email": "press@ovhcloud.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-18",
     "track": "YouTube",
     "subject": "YouTube sponsorship: European cloud hosting for indie developers",
     "message_id": "<178176117472.741335.8122817316308428464@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. | 3rd follow-up sent 2026-06-25 Marked no_reply on 2026-06-25 (7+ days with no response).",
+    "followup2_date": "2026-06-25"
   },
   {
     "name": "Datadog",
@@ -2491,12 +2497,14 @@
   {
     "name": "Fly.io",
     "email": "support@fly.io",
-    "status": "sent",
+    "status": "replied",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Fly.io for indie developers",
     "message_id": "<178217471181.796002.6182981909949740485@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: Fly.io edge deployment for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: Fly.io edge deployment for indie devs. Email verified via MX check.",
+    "reply_date": "2026-06-23",
+    "reply_note": "Unmonitored support mailbox. Dead end for sponsorship outreach."
   },
   {
     "name": "Upstash",
@@ -2629,5 +2637,105 @@
     "subject": "YouTube sponsorship: deployment content for indie developers",
     "message_id": "<178227950294.818196.15913061846289161274@gmail.com>",
     "notes": "Initial outreach. YouTube partnership pitch: deployment comparison for indie devs. Email verified via MX check."
+  },
+  {
+    "name": "Harness",
+    "email": "press@harness.io",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: CI/CD content for indie developer audience",
+    "message_id": "<178234758318.832427.17263788968893933086@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Clay",
+    "email": "partnerships@clay.com",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: data enrichment and automation content for indie devs",
+    "message_id": "<178234758740.832427.16220962576867678036@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Creatio",
+    "email": "info@creatio.com",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: no-code CRM and workflow automation for indie developers",
+    "message_id": "<178234759099.832427.2899771498496072475@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Fathom Analytics",
+    "email": "support@usefathom.com",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: privacy-first analytics for indie developers",
+    "message_id": "<178234759516.832427.7103673680482492622@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Shortcut",
+    "email": "hello@shortcut.com",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: project management for indie developers and small teams",
+    "message_id": "<178234759937.832427.2886608847510125549@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Contabo",
+    "email": "support@contabo.com",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: affordable hosting content for indie developers",
+    "message_id": "<178236595148.837728.5704024371644535487@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Scaleway",
+    "email": "partnerships@scaleway.com",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: European cloud hosting for indie developers",
+    "message_id": "<178236595568.837728.12236554773228132866@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Ionic",
+    "email": "hello@ionic.io",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: cross-platform mobile development content",
+    "message_id": "<178236595924.837728.3919614800926165824@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Nx (Nrwl)",
+    "email": "contact@nrwl.io",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: monorepo tools for indie developers",
+    "message_id": "<178236596291.837728.5576376894467728568@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+  },
+  {
+    "name": "Ahrefs",
+    "email": "partnerships@ahrefs.com",
+    "status": "sent",
+    "date_contacted": "2026-06-25",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: SEO tools for indie developers",
+    "message_id": "<178236596669.837728.565230961743696411@gmail.com>",
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
   }
 ]
