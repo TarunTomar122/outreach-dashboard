@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16",
+  "last_updated": "2026-06-27",
   "app": "Trace (online.yourtrace.app)",
   "contacts": [
     {
@@ -1388,6 +1388,66 @@
       "date_contacted": "2026-06-17",
       "message_id": "<178167288964.723676.15406100735255467053@gmail.com>",
       "notes": "Dev tools/AI/productivity outreach. Sent yourtrace.online pitch. Verified email via MX check."
+    },
+    {
+      "name": "Greg Baugues",
+      "email": "greg@baugues.com",
+      "channel": "Greg Baugues",
+      "subs": "11.6K",
+      "niche": "AI coding, developer tools",
+      "status": "email_sent",
+      "date_contacted": "2026-06-27",
+      "message_id": "<178253748769.872294.3919432346652650482@gmail.com>",
+      "app_pitched": "yourtrace.online",
+      "notes": "Sent via cron outreach"
+    },
+    {
+      "name": "Tobi Teaches",
+      "email": "tobiteaches@gmail.com",
+      "channel": "Tobi Teaches",
+      "subs": "6.3K",
+      "niche": "App/website reviews, how-to guides",
+      "status": "email_sent",
+      "date_contacted": "2026-06-27",
+      "message_id": "<178253749200.872294.6005037961612510896@gmail.com>",
+      "app_pitched": "yourtrace.online",
+      "notes": "Sent via cron outreach"
+    },
+    {
+      "name": "Ayush IO",
+      "email": "developerr.ayush@gmail.com",
+      "channel": "Ayush IO",
+      "subs": "8.2K",
+      "niche": "Tech news, gadget reviews",
+      "status": "email_sent",
+      "date_contacted": "2026-06-27",
+      "message_id": "<178253749573.872294.13192575012936088374@gmail.com>",
+      "app_pitched": "yourtrace.online",
+      "notes": "Sent via cron outreach"
+    },
+    {
+      "name": "Apponomix",
+      "email": "thegrandtheory285@gmail.com",
+      "channel": "Apponomix",
+      "subs": "24K",
+      "niche": "Software reviews",
+      "status": "email_sent",
+      "date_contacted": "2026-06-27",
+      "message_id": "<178253749919.872294.9822351286550539626@gmail.com>",
+      "app_pitched": "yourtrace.online",
+      "notes": "Sent via cron outreach"
+    },
+    {
+      "name": "Davey Gravy",
+      "email": "davey@cp1talent.com",
+      "channel": "Davey Gravy",
+      "subs": "30.5K",
+      "niche": "Tech content",
+      "status": "email_sent",
+      "date_contacted": "2026-06-27",
+      "message_id": "<178253750280.872294.10353308556416974855@gmail.com>",
+      "app_pitched": "yourtrace.online",
+      "notes": "Sent via cron outreach"
     }
   ],
   "status_legend": {
