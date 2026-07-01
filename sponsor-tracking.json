@@ -2300,82 +2300,90 @@
   {
     "name": "Tailscale",
     "email": "partnerships@tailscale.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: secure dev networking with Tailscale",
     "message_id": "<178200194677.774771.9723981972148924147@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: secure dev environment with Tailscale for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: secure dev environment with Tailscale for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Calendly",
     "email": "partnerships@calendly.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: scheduling tools for indie developers",
     "message_id": "<178200195122.774771.4135044740918094073@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: managing time as indie developer with Calendly. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: managing time as indie developer with Calendly. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "GitGuardian",
     "email": "contact@gitguardian.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: secrets detection content for developers",
     "message_id": "<178200195645.774771.5277795694084887342@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: keeping secrets safe in open source with GitGuardian. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: keeping secrets safe in open source with GitGuardian. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Snyk",
     "email": "partners@snyk.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: dependency security for indie developers",
     "message_id": "<178200196150.774771.10722841988593770136@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: dependency security with Snyk for solo devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: dependency security with Snyk for solo devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Twingate",
     "email": "partnerships@twingate.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: zero trust networking for solo developers",
     "message_id": "<178200196560.774771.15519934820770473183@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: zero trust networking with Twingate for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: zero trust networking with Twingate for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Stytch",
     "email": "partnerships@stytch.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: auth content for indie developer audience",
     "message_id": "<178202020985.777535.1605069481945084500@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: auth platform for indie apps. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: auth platform for indie apps. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Xata",
     "email": "hello@xata.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: serverless database content for indie devs",
     "message_id": "<178202021342.777535.11158179466646723493@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: serverless database comparison for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: serverless database comparison for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Contentful",
     "email": "partnerships@contentful.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: headless CMS content for indie developers",
     "message_id": "<178202021679.777535.396966861277519033@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: headless CMS for content-driven indie apps. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: headless CMS for content-driven indie apps. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Revolut",
@@ -2394,122 +2402,134 @@
   {
     "name": "Cloudways",
     "email": "partnerships@cloudways.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-21",
     "track": "YouTube",
     "subject": "YouTube sponsorship: managed hosting content for indie developers",
     "message_id": "<178202022377.777535.12516060896930154860@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: managed hosting for indie app deployment. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: managed hosting for indie app deployment. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Northflank",
     "email": "contact@northflank.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: deployment platform content for indie developers",
     "message_id": "<178208828934.783947.5224724184570287930@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: deployment platform for indie devs, full-stack app deployment with preview environments and CI/CD. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: deployment platform for indie devs, full-stack app deployment with preview environments and CI/CD. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Bunnyshell",
     "email": "hello@bunnyshell.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: ephemeral environments content for indie developers",
     "message_id": "<178208829541.783947.13080745723381584352@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: ephemeral environments for every PR, CI/CD workflow for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: ephemeral environments for every PR, CI/CD workflow for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Factory",
     "email": "contact@factory.ai",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: AI agents for software development content",
     "message_id": "<178208829885.783947.10613568754558892227@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: Factory Droid for agent-native software development, AI coding agents comparison. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: Factory Droid for agent-native software development, AI coding agents comparison. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "WunderGraph",
     "email": "hello@wundergraph.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: GraphQL Federation content for indie developers",
     "message_id": "<178208830215.783947.2061479036010394013@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: WunderGraph Cosmo for GraphQL Federation, MCP Gateway for AI development. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: WunderGraph Cosmo for GraphQL Federation, MCP Gateway for AI development. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Chainguard",
     "email": "privacy-contact@chainguard.dev",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: container security content for indie developers",
     "message_id": "<178208830612.783947.6450150305283210869@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: Chainguard secure-by-default container images, CVE reduction for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: Chainguard secure-by-default container images, CVE reduction for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "New Relic",
     "email": "partnerships@newrelic.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: monitoring and observability for indie developers",
     "message_id": "<178210672499.786480.11192378328100979474@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: monitoring and observability for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: monitoring and observability for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "PagerDuty",
     "email": "partnerships@pagerduty.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: incident management content for indie developers",
     "message_id": "<178210673039.786480.2528726692910765913@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: incident management for solo devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: incident management for solo devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Airtable",
     "email": "hello@airtable.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Airtable for indie developer workflows",
     "message_id": "<178210673437.786480.10822579361999385954@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: Airtable as lightweight backend for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: Airtable as lightweight backend for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Stability AI",
     "email": "partnerships@stability.ai",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: open-source AI models for indie developers",
     "message_id": "<178210673770.786480.14140203012169114200@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: open-source AI models for indie apps. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: open-source AI models for indie apps. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Runway",
     "email": "hello@runway.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-22",
     "track": "YouTube",
     "subject": "YouTube sponsorship: AI video generation tools for creators and developers",
     "message_id": "<178210674108.786480.11058092122914526495@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: AI video generation for app demos and marketing. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: AI video generation for app demos and marketing. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Railway",
     "email": "team@railway.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Railway for indie developers",
     "message_id": "<178217470246.796001.11361994099171092200@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: Railway deployment for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: Railway deployment for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Fly.io",
@@ -2538,72 +2558,79 @@
   {
     "name": "Turso",
     "email": "support@turso.tech",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Turso for indie developers",
     "message_id": "<178217473472.796004.2995186523287469056@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: Turso edge SQLite for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: Turso edge SQLite for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Neon",
     "email": "press@neon.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Neon for indie developers",
     "message_id": "<178217474417.796006.866497070815198@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: Neon serverless Postgres for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: Neon serverless Postgres for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Umami",
     "email": "hello@umami.is",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: privacy-focused analytics for indie developers",
     "message_id": "<178219314582.800344.8797956047778757129@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: privacy analytics for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: privacy analytics for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Statsig",
     "email": "partnerships@statsig.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: feature flags and experimentation for indie devs",
     "message_id": "<178219314964.800344.12186756207728180164@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: feature flags and experimentation for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: feature flags and experimentation for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Mixpanel",
     "email": "hello@mixpanel.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: product analytics for indie developers",
     "message_id": "<178219315402.800344.13416865552905105685@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: product analytics for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: product analytics for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Amplitude",
     "email": "partnerships@amplitude.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: product analytics for indie developers",
     "message_id": "<178219315839.800344.11459778795277209935@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: product analytics for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: product analytics for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Jasper",
     "email": "partnerships@jasper.ai",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-23",
     "track": "YouTube",
     "subject": "YouTube sponsorship: AI content tools for indie developers",
     "message_id": "<178219316208.800344.18006902073304707886@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: AI content generation for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: AI content generation for indie devs. Email verified via MX check.",
+    "updated_at": "2026-06-30T12:43:00Z"
   },
   {
     "name": "Supabase",
