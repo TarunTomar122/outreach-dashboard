@@ -2635,92 +2635,110 @@
   {
     "name": "Supabase",
     "email": "partnerships@supabase.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-24",
     "track": "YouTube",
     "subject": "YouTube sponsorship: Supabase content for indie developers",
     "message_id": "<178227948694.818196.5504650562001894149@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: full-stack app build with Supabase. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: full-stack app build with Supabase. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Resend",
     "email": "partnerships@resend.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-24",
     "track": "YouTube",
     "subject": "YouTube sponsorship: email infrastructure content for indie devs",
     "message_id": "<178227949079.818196.13029242707673653485@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: transactional email system for indie SaaS. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: transactional email system for indie SaaS. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Loops",
     "email": "partners@loops.so",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-24",
     "track": "YouTube",
     "subject": "YouTube sponsorship: SaaS email system build with Loops",
     "message_id": "<178227949425.818196.14246416216625680914@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: SaaS email system build. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: SaaS email system build. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Pinecone",
     "email": "partnerships@pinecone.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-24",
     "track": "YouTube",
     "subject": "YouTube sponsorship: vector database content for AI developers",
     "message_id": "<178227949865.818196.11777975870218673730@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: RAG-powered feature build with Pinecone. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: RAG-powered feature build with Pinecone. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Render",
     "email": "partnerships@render.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-24",
     "track": "YouTube",
     "subject": "YouTube sponsorship: deployment content for indie developers",
     "message_id": "<178227950294.818196.15913061846289161274@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch: deployment comparison for indie devs. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch: deployment comparison for indie devs. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Harness",
     "email": "press@harness.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-25",
     "track": "YouTube",
     "subject": "YouTube sponsorship: CI/CD content for indie developer audience",
     "message_id": "<178234758318.832427.17263788968893933086@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Clay",
     "email": "partnerships@clay.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-25",
     "track": "YouTube",
     "subject": "YouTube sponsorship: data enrichment and automation content for indie devs",
     "message_id": "<178234758740.832427.16220962576867678036@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Creatio",
     "email": "info@creatio.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-25",
     "track": "YouTube",
     "subject": "YouTube sponsorship: no-code CRM and workflow automation for indie developers",
     "message_id": "<178234759099.832427.2899771498496072475@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Fathom Analytics",
     "email": "support@usefathom.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-25",
     "track": "YouTube",
     "subject": "YouTube sponsorship: privacy-first analytics for indie developers",
     "message_id": "<178234759516.832427.7103673680482492622@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Shortcut",
@@ -2751,42 +2769,50 @@
   {
     "name": "Scaleway",
     "email": "partnerships@scaleway.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-25",
     "track": "YouTube",
     "subject": "YouTube sponsorship: European cloud hosting for indie developers",
     "message_id": "<178236595568.837728.12236554773228132866@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Ionic",
     "email": "hello@ionic.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-25",
     "track": "YouTube",
     "subject": "YouTube sponsorship: cross-platform mobile development content",
     "message_id": "<178236595924.837728.3919614800926165824@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Nx (Nrwl)",
     "email": "contact@nrwl.io",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-25",
     "track": "YouTube",
     "subject": "YouTube sponsorship: monorepo tools for indie developers",
     "message_id": "<178236596291.837728.5576376894467728568@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Ahrefs",
     "email": "partnerships@ahrefs.com",
-    "status": "sent",
+    "status": "no_reply",
     "date_contacted": "2026-06-25",
     "track": "YouTube",
     "subject": "YouTube sponsorship: SEO tools for indie developers",
     "message_id": "<178236596669.837728.565230961743696411@gmail.com>",
-    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check."
+    "notes": "Initial outreach. YouTube partnership pitch. Email verified via MX check. Marked no_reply on 2026-07-02 (7+ days with no response).",
+    "followup2_date": "2026-07-02",
+    "last_contacted": "2026-07-02"
   },
   {
     "name": "Perplexity AI",
@@ -3045,5 +3071,55 @@
     "track": "YouTube",
     "subject": "YouTube sponsorship: search infrastructure for indie devs",
     "message_id": "<178280574997.923490.8014008528462765283@gmail.com>"
+  },
+  {
+    "name": "CodeSandbox",
+    "email": "hello@codesandbox.io",
+    "status": "sent",
+    "date_contacted": "2026-07-02",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: cloud dev environments for indie developers",
+    "message_id": "<178297073646.941412.17076798600533121512@gmail.com>",
+    "last_contacted": "2026-07-02"
+  },
+  {
+    "name": "SoFi",
+    "email": "partnerships@sofi.com",
+    "status": "sent",
+    "date_contacted": "2026-07-02",
+    "track": "stocksbrew",
+    "subject": "Partnership: SoFi + stocksbrew.online for investor audience",
+    "message_id": "<178297074077.941412.12310107075222722229@gmail.com>",
+    "last_contacted": "2026-07-02"
+  },
+  {
+    "name": "Chime",
+    "email": "press@chime.com",
+    "status": "sent",
+    "date_contacted": "2026-07-02",
+    "track": "stocksbrew",
+    "subject": "Partnership: Chime + fintech content for developer audience",
+    "message_id": "<178297074503.941412.17946724097219664254@gmail.com>",
+    "last_contacted": "2026-07-02"
+  },
+  {
+    "name": "Loom",
+    "email": "press@loom.com",
+    "status": "sent",
+    "date_contacted": "2026-07-02",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: async video communication for indie devs",
+    "message_id": "<178297074851.941412.16147639003016772975@gmail.com>",
+    "last_contacted": "2026-07-02"
+  },
+  {
+    "name": "Posit (RStudio)",
+    "email": "partnerships@posit.co",
+    "status": "sent",
+    "date_contacted": "2026-07-02",
+    "track": "YouTube",
+    "subject": "YouTube sponsorship: data science tools for indie developers",
+    "message_id": "<178297075272.941412.16286300129906597169@gmail.com>",
+    "last_contacted": "2026-07-02"
   }
 ]
